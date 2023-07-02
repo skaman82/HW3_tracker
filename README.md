@@ -28,5 +28,9 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • UI: Icon makes no sense as it is showing "Step rainbow"<br>
 <i>• rest to be tested</i>
 
+## Heart Rate
+• UI: Missing space: 80bpm 0Minutes ago (space between "0" and "Minutes")
+• UI: Missing space and typo in "Resting heartrate" 80bpm 0Minutes *Agogo* (space between "0" and "Minutes"  and "ago")
+• UI: Measurements are not logged in the UI
 
 
