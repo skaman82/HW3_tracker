@@ -14,6 +14,8 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 • Weather don't show up on the dashboard (when you swipe right on the watch face) only cloud icon
 
+• swiping back from the message detail view shows black screen (when you have a couple messages)
+
 • Not a bug but but a suggestion: I would love if an interactive watch face style could be locked (now it is still changes style/colors on tap)
 
 ## Custom watchfaces
@@ -90,4 +92,10 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • UI: animation is stuttery (not a priority tho) 
 
 ## Alarms
-• UI: anim
+• Function: sound alarm missing even when "ring" is set<br>
+• UI: text is not vertically centered and changes style (active/not active)<br>
+• UI: when setting additional alarm and activating it the bell icon is overlapping text
+
+## Timer
+• Function: sound alarm missing - vibration is not enought
+• UI: When timer is finished UI looks stange
