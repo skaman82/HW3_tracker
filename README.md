@@ -60,6 +60,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • Function & Stats: Not working on my watch yet <br>
 • UI: "All timing" Screen not working / not configurable<br>
 • UI: "add other timing" screen not working / not configurable<br>
+• UI: "Sleep goal" button looks not aligned and has no function<br>
 
 ## Dial
 • UI: "+" takes you to contact list instead of typing "+" (icon either should be changed or the functionallity)
