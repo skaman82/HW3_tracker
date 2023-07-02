@@ -16,6 +16,8 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 • Not a bug but but a suggestion: I would love if an interactive watch face style could be locked (now it is still changes style/colors on tap)
 
+• sometimes charging screen remains on even when the charger is remooved
+
 
 ## Notifications
 • swiping back from the message detail view shows black screen (when you have a couple messages)<br>
