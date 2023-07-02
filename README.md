@@ -16,6 +16,8 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 ## Allways on display
 • UI: Digital style of AOD is very simple and could have a nicer font and maybe additional info like steps or battery status
 
+## Beadside clock
+• Currently missng: Please add and make sure it is constant on with low light intensity while charging.
 
 ## Sports (very brief tested so there may be more)
 • UI: Lock/Add buttons during an activity have no function<br>
