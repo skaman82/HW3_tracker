@@ -12,6 +12,8 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 • Function: "Raise to wake" doesnt work on my watch
 
+• Weather don't show up on the dashboard (when you swipe right on the watch face) only cloud icon
+
 • Not a bug but but a suggestion: I would love if an interactive watch face style could be locked (now it is still changes style/colors on tap)
 
 
@@ -42,8 +44,51 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • UI: Result screen doesnt look good
 
 ## Step
-• Function: Step count (always showing 0 steps)<br>
+• Function: Step count not working on my watch (always showing 0 steps)<br>
 • UI: Wrong icon in distance stats section (blue) - currently showing green steps icon <br>
 
+## Compass
+• Function: SNot working on my watch yet - compass only mooving a few degrees it i rotate the watch<br>
+• UI: switching between the two compass modes not allways work (tapping on the list icon)
 
+## Sleep
+• Function & Stats: Not working on my watch yet <br>
+• UI: "All timing" Screen not working / not configurable<br>
+• UI: "add other timing" screen not working / not configurable<br>
 
+## Dial
+• UI: "+" takes you to contact list instead of typing "+" (icon either should be changed or the functionallity)<br>
+
+##Call record
+• UI: Call records dissapearing once viewed - mannually deleting them would be better<br>
+
+##Contacts
+• UI: Not enough spacing between profile icon and name<br>
+
+##Calender
+• UI: 1st weekday is currently Sunday - thats not the case in europe and should be at least configurable <br>
+
+##Weather
+• UI: Forecast not readable (maybee add an dark gradient in the background or redesign)<br>
+• UI: animated wave has no function and can be remooved <br>
+• UI: scrolling reveals black borders, while swiping left, forecast elements overflow<br>
+• Function: weather not accurtate for my location (16 vs 19 deg)<br>
+• UI: Weather data not showing up on the dashboard in the watchface (only cloud icon - see above)<br>
+
+##Music
+• UI: Track name is not displayed properly while in media control mode (only first track gets updated)<br>
+• UI: Play/Pause button has no state change (should be displayed as pause while music is playing)<br>
+• UI: no visual fidback on volume change<br>
+• UI: loop icon has no functionality<br>
+• UI: local music screen (please sync on your App) has a misplace small music icon on the screen<br>
+• Function: local music: music file transfer not working (android)<br>
+• Function: BT earbud connection doesn't work<br>
+
+##Position
+• Function: This doesn't work yet on my watch
+
+##Breath training
+• UI: animation is stuttery (not a priority tho) 
+
+##Alarms
+• UI: anim
