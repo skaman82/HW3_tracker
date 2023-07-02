@@ -14,9 +14,13 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 • Weather don't show up on the dashboard (when you swipe right on the watch face) only cloud icon
 
-• swiping back from the message detail view shows black screen (when you have a couple messages)
 
 • Not a bug but but a suggestion: I would love if an interactive watch face style could be locked (now it is still changes style/colors on tap)
+
+
+## Notifications
+• swiping back from the message detail view shows black screen (when you have a couple messages)
+• Notifications overflow: to many not usefull notifications normall not diesplayed by other watches like "tweet send" or "xx new messages" from whattsapp
 
 ## Custom watchfaces
 • Function: please also add pointer dial style to make it perfect
