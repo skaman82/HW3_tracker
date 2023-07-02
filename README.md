@@ -17,8 +17,14 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • UI: Digital style of AOD is very simple and could have a nicer font and maybe additional info like steps or battery status
 
 
-## Sports tracking (very brief tested so there may be more)
+## Sports (very brief tested so there may be more)
 • UI: Lock/Add buttons during an activity have no function<br>
 • UI: END Activity button has a PAUSE icon - not logical
+• rest to be tested
+
+## Sport record
+• UI: Icon makes no sense as it is showing "Step rainbow"
+• rest to be tested
+
 
 
