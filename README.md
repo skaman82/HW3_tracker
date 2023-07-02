@@ -1,9 +1,9 @@
 # Hello Watch UI bug/functions status tracker
-Here I want to list all current issues of the watch at current development stages. Main focus is UI and functionallity of the watch. While smoothness is an overall isue I leave this aside, since functionality has higher priority.
+Here I want to list all current issues of the watch at current development stages. Main focus is UI and functionallity of the watch core functions. While smoothness is an overall an issue, I leave this aside, since the rest has a much higher priority.
 
 
-REMARK: My step counter and "raise to wake" finctions never worked since I got the watch. There are some people reporting steps
-or rase to wake working - some even both. Regarding this I'm not sure if this is falty hardware and bad quality control or something else.
+REMARK: My step counter and "raise to wake" functions never worked since I got the watch. There are some people reporting steps
+or rase to wake functions working - some even both. Regarding this I'm not sure if this is falty hardware and bad quality control or something else.
 
 
 
@@ -21,13 +21,13 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • Function: "Raise to wake" doesnt work on my watch<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/3.jpg" width="300px"/>
 
-• Weather don't show up on the dashboard (when you swipe right on the watch face) only cloud icon<br>
+• Weather don't show up on the side dashboard (when you swipe right on the watch face) only cloud icon with a question mark<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/4.jpg" width="300px"/>
 
-• Function: Sometimes charging screen remains on even when the charger is remooved<br>
+• Function: Sometimes charging screen remains on, even when the charger is remooved<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/10.jpg" width="300px"/>
 
-• Not a bug but but a suggestion: I would love if an interactive watch face style could be locked (now it is still changes style/colors on tap)<br>
+• Not a bug, but but a suggestion: I would love if an interactive watch face style could be locked (now it is still changes style/colors on tap)<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/5.jpg" width="300px"/>
 
 
@@ -35,7 +35,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • swiping back from the message detail view shows black screen (when you have a couple messages)<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/6.jpg" width="300px"/>
 
-• Notifications overflow: to many not usefull notifications normall not diesplayed by other watches like "tweet send" or "xx new messages" from whattsapp<br>
+• Notifications overflow: too many not usefull notifications normall not displayed by other watches like "tweet send" or "xx new messages" from whattsapp<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/7.jpg" width="300px"/>
 
 
@@ -56,7 +56,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 
 ## Sports (very brief tested so there may be more)
-• UI: Lock/Add buttons during an activity have no function<br>
+• UI: Lock/Add buttons during an activity have no function - icons are not logical<br>
 • UI: END Activity button has a PAUSE icon - not logical<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/13.jpg" width="300px"/>
 
@@ -88,13 +88,13 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 
 ## Compass
-• Function: SNot working on my watch yet - compass only mooving a few degrees it i rotate the watch<br>
+• Function: Not working on my watch yet - compass only mooving a few degrees if I rotate the watch<br>
 • UI: switching between the two compass modes not allways work (tapping on the list icon)<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/18.jpg" width="300px"/>
 
 
 ## Sleep
-• Function & Stats: Not working on my watch yet <br>
+• Tracking & Stats: Not working on my watch yet <br>
 • UI: "All timing" Screen not working / not configurable<br>
 • UI: "add other timing" screen not working / not configurable<br>
 • UI: "Sleep goal" button looks not aligned and has no function<br>
@@ -110,6 +110,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 ## Call record
 • UI: Call records dissapearing sometimes once viewed - mannually deleting them would be better<br>
+• function: Call records list of my phone is not displayed, only calls I've made from the watch are visible<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/23.jpg" width="300px"/>
 
 
@@ -126,7 +127,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 ## Weather
 • UI: Forecast not readable (maybee add an dark gradient in the background or redesign)<br>
 • UI: animated wave has no function and can be remooved <br>
-• UI: scrolling reveals black borders, while swiping left, forecast elements overflow<br>
+• UI: scrolling reveals black borders, while swiping left, forecast elements overflows<br>
 • Function: weather not accurtate for my location (16 vs 19 deg)<br>
 • UI: Weather data not showing up on the dashboard in the watchface (only cloud icon - see above)<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/26.jpg" width="300px"/>
@@ -139,9 +140,10 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • UI: Play/Pause button has no state change (should be displayed as pause while music is playing)<br>
 • UI: no visual fidback on volume change<br>
 • UI: loop icon has no functionality<br>
-• UI: local music screen (please sync on your App) has a misplace small music icon on the screen<br>
+• UI: local music screen (please sync on your App) has a misplaced small music icon on the screen<br>
 • Function: local music: music file transfer not working (android)<br>
 • Function: BT earbud connection doesn't work<br>
+• Wish: please display Cover artwork, Title and Artist of uploaded mp3 song in local music view 
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/28.jpg" width="300px"/>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/29.jpg" width="300px"/>
 
