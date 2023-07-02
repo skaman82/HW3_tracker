@@ -168,7 +168,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 ## Photo album
 • Function: Deleting a photo doesn't work
-• UI: Delete button labell is not scrolling and is cut off
+• UI: Delete button labell is not scrolling and is cut off<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/34.jpg" width="300px"/>
 
 
