@@ -21,9 +21,6 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • Function: Sometimes charging screen remains on even when the charger is remooved<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/10.jpg" width="300px"/>
 
-• Menu list view: add some more space between the icon and text<br>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/35.jpg" width="300px"/>
-
 • Not a bug but but a suggestion: I would love if an interactive watch face style could be locked (now it is still changes style/colors on tap)<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/5.jpg" width="300px"/>
 
