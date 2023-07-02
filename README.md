@@ -46,6 +46,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 ## Beadside clock
 • Currently missng: Please add and make sure it is constant on with low light intensity while charging.<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/10.jpg" width="300px"/>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/bs.png" width="300px"/>
 
 
 ## Sports (very brief tested so there may be more)
