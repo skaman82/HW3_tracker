@@ -113,6 +113,6 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 ## Settings
 • Battery UI: not really helpfull data - maybee add time since last charge?<br>
-• Settings > Sports: UI is broken (too much space between options)<br>
+• Settings > Sports: UI is broken, labels not scrolling (too much space between options)<br>
 • Settings > Heartrate: UI is broken (text not vertically centered)<br>
 • Settings > Fitness record: UI is broken (too much space between options), goal setup missing<br>
