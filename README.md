@@ -104,6 +104,9 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • Function: sound alarm missing - vibration is not enought<br>
 • UI: When timer is finished UI looks stange
 
+## Photo album
+• Function: Deleting a photo doesn't work
+
 ## Settings
 • Genaral UI: add some more space between the icon and text<br>
 • Battery UI: not really helpfull data - maybee add time since last charge?<br>
