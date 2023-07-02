@@ -97,5 +97,12 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • UI: when setting additional alarm and activating it the bell icon is overlapping text
 
 ## Timer
-• Function: sound alarm missing - vibration is not enought
+• Function: sound alarm missing - vibration is not enought<br>
 • UI: When timer is finished UI looks stange
+
+## Settings
+• Genaral UI: add some more space between the icon and text<br>
+• Battery UI: not really helpfull data - maybee add time since last charge?<br>
+• Settings > Sports: UI is broken (too much space between options)<br>
+• Settings > Heartrate: UI is broken (text not vertically centered)<br>
+• Settings > Fitness record: UI is broken (too much space between options), goal setup missing<br>
