@@ -44,7 +44,6 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 ## Heart Rate
 • UI: Missing space: 80bpm 0Minutes ago (space between "0" and "Minutes")<br>
 • UI: Missing space and typo in "Resting heartrate" and in "Waling heartrate": 80bpm 0Minutes *Agogo* (space between "0" and "Minutes"  and "ago")<br>
-• UI: Measurements are not logged in the UI<br>
 
 ## SPO
 • UI: Result screen doesnt look good
