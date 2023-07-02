@@ -66,7 +66,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • UI: "+" takes you to contact list instead of typing "+" (icon either should be changed or the functionallity)
 
 ## Call record
-• UI: Call records dissapearing once viewed - mannually deleting them would be better<br>
+• UI: Call records dissapearing sometimes once viewed - mannually deleting them would be better<br>
 
 ## Contacts
 • UI: Not enough spacing between profile icon and name<br>
