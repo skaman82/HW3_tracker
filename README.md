@@ -1,4 +1,4 @@
-# Hello Watch UI bug/functions status tracker
+# Hello Watch 3 UI bug/functions status tracker
 Here I want to list all current issues of the watch at current development stages. Main focus is UI and functionallity of the watch core functions. While smoothness is an overall an issue, I leave this aside, since the rest has a much higher priority.
 
 
