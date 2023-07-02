@@ -4,28 +4,28 @@ Here I want to list all current issues of the watch at current development stage
 LIST UPDATE STATE: FW 1.00.40
 
 ## General/Menu/Watchfaces
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/1.jpg" width="300px"/>
 • UI: current watchfaces seem to have a lower resolution than the watch display. 
 This resulting in blown up and blurry graphics - same goes for the honeycomb menu.
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/1.jpg" width="300px"/>
 
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/2.jpg" width="300px"/>
 • UI: In the main menu the rainbow icon opens "sport stats" instead of "step summary". 
 This is not logical as the icon represents the rainbow circle of the "steps stats screen".
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/2.jpg" width="300px"/>
 
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/3.jpg" width="300px"/>
 • Function: "Raise to wake" doesnt work on my watch
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/3.jpg" width="300px"/>
 
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/4.jpg" width="300px"/>
 • Weather don't show up on the dashboard (when you swipe right on the watch face) only cloud icon
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/4.jpg" width="300px"/>
 
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/10.jpg" width="300px"/>
 • Function: Sometimes charging screen remains on even when the charger is remooved
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/10.jpg" width="300px"/>
 
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/35.jpg" width="300px"/>
 • Menu list view: add some more space between the icon and text<br>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/35.jpg" width="300px"/>
 
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/5.jpg" width="300px"/>
 • Not a bug but but a suggestion: I would love if an interactive watch face style could be locked (now it is still changes style/colors on tap)
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/5.jpg" width="300px"/>
 
 
 ## Notifications
