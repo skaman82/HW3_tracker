@@ -14,9 +14,11 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 • Weather don't show up on the dashboard (when you swipe right on the watch face) only cloud icon
 
-• Not a bug but but a suggestion: I would love if an interactive watch face style could be locked (now it is still changes style/colors on tap)
+• Function: Sometimes charging screen remains on even when the charger is remooved
 
-• sometimes charging screen remains on even when the charger is remooved
+• Menu list view: add some more space between the icon and text<br>
+
+• Not a bug but but a suggestion: I would love if an interactive watch face style could be locked (now it is still changes style/colors on tap)
 
 
 ## Notifications
@@ -110,7 +112,6 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • UI: Delete button labell is not scrolling and is cut off
 
 ## Settings
-• Genaral UI: add some more space between the icon and text<br>
 • Battery UI: not really helpfull data - maybee add time since last charge?<br>
 • Settings > Sports: UI is broken (too much space between options)<br>
 • Settings > Heartrate: UI is broken (text not vertically centered)<br>
