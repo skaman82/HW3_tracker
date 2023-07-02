@@ -16,7 +16,6 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 • Not a bug but but a suggestion: I would love if an interactive watch face style could be locked (now it is still changes style/colors on tap)
 
-
 ## Custom watchfaces
 • Function: please also add pointer dial style to make it perfect
 
@@ -57,25 +56,25 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • UI: "add other timing" screen not working / not configurable<br>
 
 ## Dial
-• UI: "+" takes you to contact list instead of typing "+" (icon either should be changed or the functionallity)<br>
+• UI: "+" takes you to contact list instead of typing "+" (icon either should be changed or the functionallity)
 
-##Call record
+## Call record
 • UI: Call records dissapearing once viewed - mannually deleting them would be better<br>
 
-##Contacts
+## Contacts
 • UI: Not enough spacing between profile icon and name<br>
 
-##Calender
+## Calender
 • UI: 1st weekday is currently Sunday - thats not the case in europe and should be at least configurable <br>
 
-##Weather
+## Weather
 • UI: Forecast not readable (maybee add an dark gradient in the background or redesign)<br>
 • UI: animated wave has no function and can be remooved <br>
 • UI: scrolling reveals black borders, while swiping left, forecast elements overflow<br>
 • Function: weather not accurtate for my location (16 vs 19 deg)<br>
 • UI: Weather data not showing up on the dashboard in the watchface (only cloud icon - see above)<br>
 
-##Music
+## Music
 • UI: Track name is not displayed properly while in media control mode (only first track gets updated)<br>
 • UI: Play/Pause button has no state change (should be displayed as pause while music is playing)<br>
 • UI: no visual fidback on volume change<br>
@@ -84,11 +83,11 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • Function: local music: music file transfer not working (android)<br>
 • Function: BT earbud connection doesn't work<br>
 
-##Position
+## Position
 • Function: This doesn't work yet on my watch
 
-##Breath training
+## Breath training
 • UI: animation is stuttery (not a priority tho) 
 
-##Alarms
+## Alarms
 • UI: anim
