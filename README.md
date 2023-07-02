@@ -4,6 +4,8 @@ Here I want to list all current issues of the watch at current development stage
 LIST UPDATE STATE: FW 1.00.40
 
 ## General/Menu/Watchfaces
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/1.jpg)"/>
+
 • UI: current watchfaces seem to have a lower resolution than the watch display. 
 This resulting in blown up and blurry graphics - same goes for the honeycomb menu.
 
