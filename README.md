@@ -10,6 +10,11 @@ This resulting in blown up and blurry graphics - same goes for the honeycomb men
 • UI: In the main menu the rainbow icon opens "sport stats" instead of "step summary". 
 This is not logical as the icon represents the rainbow circle of the "steps stats screen".
 
+• Function: "Raise to wake" doesnt work on my watch
+
+• Not a bug but but a suggestion: I would love if an interactive watch face style could be locked (now it is still changes style/colors on tap)
+
+
 ## Custom watchfaces
 • Function: please also add pointer dial style to make it perfect
 
@@ -29,8 +34,16 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 <i>• rest to be tested</i>
 
 ## Heart Rate
-• UI: Missing space: 80bpm 0Minutes ago (space between "0" and "Minutes")
-• UI: Missing space and typo in "Resting heartrate" 80bpm 0Minutes *Agogo* (space between "0" and "Minutes"  and "ago")
-• UI: Measurements are not logged in the UI
+• UI: Missing space: 80bpm 0Minutes ago (space between "0" and "Minutes")<br>
+• UI: Missing space and typo in "Resting heartrate" and in "Waling heartrate": 80bpm 0Minutes *Agogo* (space between "0" and "Minutes"  and "ago")<br>
+• UI: Measurements are not logged in the UI<br>
+
+## SPO
+• UI: Result screen doesnt look good
+
+## Step
+• Function: Step count (always showing 0 steps)<br>
+• UI: Wrong icon in distance stats section (blue) - currently showing green steps icon <br>
+
 
 
