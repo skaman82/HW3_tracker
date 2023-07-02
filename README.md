@@ -1,6 +1,12 @@
 # Hello Watch UI bug/functions status tracker
 Here I want to list all current issues of the watch at current development stages. Main focus is UI and functionallity of the watch. While smoothness is an overall isue I leave this aside, since functionality has higher priority.
 
+
+REMARK: My step counter and "raise to wake" finctions never worked since I got the watch. There are some people reporting steps
+or rase to wake working - some even both. Regarding this I'm not sure if this is falty hardware and bad quality control or something else.
+
+
+
 LIST UPDATE STATE: FW 1.00.40
 
 ## General/Menu/Watchfaces
