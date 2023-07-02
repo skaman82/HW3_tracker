@@ -11,7 +11,7 @@ This resulting in blown up and blurry graphics - same goes for the honeycomb men
 This is not logical as the icon represents the rainbow circle of the "steps stats screen".
 
 ## Custom watchfaces
-• Function: please add pointer dial style
+• Function: please also add pointer dial style to make it perfect
 
 ## Allways on display
 • UI: Digital style of AOD is very simple and could have a nicer font and maybe additional info like steps or battery status
