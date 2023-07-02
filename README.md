@@ -20,11 +20,11 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 ## Sports (very brief tested so there may be more)
 • UI: Lock/Add buttons during an activity have no function<br>
 • UI: END Activity button has a PAUSE icon - not logical<br>
-• rest to be tested
+<i>• rest to be tested</i>
 
 ## Sport record
 • UI: Icon makes no sense as it is showing "Step rainbow"<br>
-• rest to be tested
+<i>• rest to be tested</i>
 
 
 
