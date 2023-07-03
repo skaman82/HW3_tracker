@@ -6,8 +6,7 @@ REMARK: My step counter and "raise to wake" functions never worked since I got t
 or rase to wake functions working - some even both. Regarding this I'm not sure if this is falty hardware and bad quality control or something else.
 
 
-
-LIST UPDATE STATE: FW 1.00.40
+<b>LIST UPDATE STATE: FW 1.00.41</b>
 
 ## General/Menu/Watchfaces
 • UI: current watchfaces seem to have a lower resolution than the watch display. 
@@ -74,6 +73,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/14.jpg" width="300px"/>
 
 • UI: Missing space and typo in "Resting heartrate" and in "Waling heartrate": 80bpm 0Minutes *Agogo* (space between "0" and "Minutes"  and "ago")<br>
+fixed in 1.00.41: "Agoago" type. Missing spaces remain.
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/15.jpg" width="300px"/>
 
 
@@ -137,13 +137,12 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/27.jpg" width="300px"/>
 
 
-
 ## Music
-• UI: Track name is not displayed properly while in media control mode (only first track gets updated)<br>
-• UI: Play/Pause button has no state change (should be displayed as pause while music is playing)<br>
-• UI: no visual fidback on volume change<br>
-• UI: loop icon has no functionality<br>
-• UI: local music screen (please sync on your App) has a misplaced small music icon on the screen<br>
+• <del>UI: Track name is not displayed properly while in media control mode (only first track gets updated)</del> fixed in 1.00.41<br>
+• <del>UI: Play/Pause button has no state change (should be displayed as pause while music is playing)</del> fixed in 1.00.41<br>
+• <del>UI: no visual fidback on volume change</del> fixed in 1.00.41 <br>
+• UI: loop icon has no functionality in media control mode and can be remooved in "mobile music" state<br>
+• UI: local music screen (please sync on your App) has a misplaced small music icon on the screen - apears when you tap on the tracklist icon<br>
 • Function: local music: music file transfer not working (android)<br>
 • Function: BT earbud connection doesn't work<br>
 • Wish: please display Cover artwork, Title and Artist of uploaded mp3 song in local music view 
@@ -164,8 +163,10 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 ## Alarms
 • Function: sound alarm missing even when "ring" is set<br>
-• UI: text is not vertically centered and changes style (active/not active)<br>
-• UI: when setting additional alarm and activating it the bell icon is overlapping text<br>
+• <del>UI: text is not vertically centered and changes style (active/not active)</del> fixed in 1.00.41<br>
+• <del>UI: when setting additional alarm and activating it the bell icon is overlapping text</del> fixed in 1.00.41<br>
+• UI: in alarm edit view there is a typo on the delete button - it says "Dele"
+• adding a new alarm not allways work - sometimes setting are not saved on press on the crown
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/32.jpg" width="300px"/>
 
 
