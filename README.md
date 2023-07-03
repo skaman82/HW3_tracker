@@ -13,7 +13,7 @@ or rase to wake functions working - some even both. Regarding this I'm not sure 
 This resulting in blown up and blurry graphics - same goes for the honeycomb menu.<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/1.jpg" width="300px"/>
 
-• Function issue: Watch doesn't stop vibrationg when I take a call on my Phone<br>
+• Function issue: Watch doesn't stop vibrationg when I take the call on my Phone<br>
 
 • Function issue: Volume control is not linked to phones volume (even if there is the setting "Media tone control"). When volume on the phone is turned down, increasing the volume on the watch has not much effect<br>
 
@@ -21,7 +21,7 @@ This resulting in blown up and blurry graphics - same goes for the honeycomb men
 This is not logical as the icon represents the rainbow circle of the "steps stats screen".<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/2.jpg" width="300px"/>
 
-• Function issue: "Raise to wake" doesnt work on my watch<br>
+• Function issue: "Raise to wake" doesnt work on my watch - might be a rardware fault (see above)<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/3.jpg" width="300px"/>
 
 • Weather don't show up on the side dashboard (when you swipe right on the watch face) only cloud icon with a question mark<br>
