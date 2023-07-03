@@ -38,7 +38,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • <del>swiping back from the message detail view shows black screen (when you have a couple messages)</del> fixed in 1.00.41<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/6.jpg" width="300px"/>
 
-• Notifications overflow: too many not usefull notifications normall not displayed by other watches like "tweet send" or "xx new messages" from whattsapp<br>
+• Notifications overflow: too many not usefull notifications normally not displayed by other watches like "tweet send" or "xx new messages" from whattsapp<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/7.jpg" width="300px"/>
 
 
@@ -73,7 +73,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/14.jpg" width="300px"/>
 
 • UI: Missing space and typo in "Resting heartrate" and in "Waling heartrate": 80bpm 0Minutes *Agogo* (space between "0" and "Minutes"  and "ago")<br>
-fixed in 1.00.41: "Agoago" type. Missing spaces remain.<br>
+fixed in 1.00.41: "Agoago" typo. Missing spaces remain.<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/15.jpg" width="300px"/>
 
 
