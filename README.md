@@ -35,7 +35,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 
 ## Notifications
-• swiping back from the message detail view shows black screen (when you have a couple messages)<br>
+• <del>swiping back from the message detail view shows black screen (when you have a couple messages)</del> fixed in 1.00.41<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/6.jpg" width="300px"/>
 
 • Notifications overflow: too many not usefull notifications normall not displayed by other watches like "tweet send" or "xx new messages" from whattsapp<br>
@@ -140,7 +140,8 @@ fixed in 1.00.41: "Agoago" type. Missing spaces remain.<br>
 ## Music
 • <del>UI: Track name is not displayed properly while in media control mode (only first track gets updated)</del> fixed in 1.00.41<br>
 • <del>UI: Play/Pause button has no state change (should be displayed as pause while music is playing)</del> fixed in 1.00.41<br>
-• <del>UI: no visual fidback on volume change</del> fixed in 1.00.41 <br>
+• <del>UI: no visual fidback on volume change</del> fixed in 1.00.41 - but only in local music mode <br>
+• UI: no visual fidback on volume change im "media control" mode
 • UI: loop icon has no functionality in media control mode and can be remooved in "mobile music" state<br>
 • UI: local music screen (please sync on your App) has a misplaced small music icon on the screen - apears when you tap on the tracklist icon<br>
 • Function: local music: music file transfer not working (android)<br>
