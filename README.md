@@ -16,6 +16,8 @@ This resulting in blown up and blurry graphics - same goes for the honeycomb men
 
 • Function issue: Watch doesn't stop vibrationg when I take a call on my Phone<br>
 
+• Function issue: Volume control is not linked to phones volume (even if there is the setting). When volume on the phone is turned down, increasing the volume on the watch has not much effect<br>
+
 • UI: In the main menu the rainbow icon opens "sport stats" instead of "step summary". 
 This is not logical as the icon represents the rainbow circle of the "steps stats screen".<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/2.jpg" width="300px"/>
