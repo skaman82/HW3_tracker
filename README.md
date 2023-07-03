@@ -61,7 +61,6 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 ## Sports (very brief tested so there may be more)
 • UI: Lock/Add buttons during an activity have no function - icons are not logical<br>
-• UI: END Activity button has a PAUSE icon - not logical<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/13.jpg" width="300px"/>
 
 <i>• rest to be tested</i>
