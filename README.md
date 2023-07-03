@@ -1,5 +1,5 @@
 # Hello Watch 3 UI bug/functions status tracker
-Here I want to list all current issues of the watch at current development stages. Main focus is UI and functionallity of the watch core functions. While smoothness is an overall an issue, I leave this aside, since the rest has a much higher priority.
+Here I want to list all current issues of the watch at current firmware development stages. The goal is not to make the watch to look bad, but to show the issues and demonstrate where things could be improoved to make it a good product. I think this watch has potential, but it is clearly "not there yet". Main focus is UI and functionallity of the watch core functions. While smoothness is an overall an issue, I leave this aside, since the rest has a much higher priority.
 
 
 REMARK: My step counter and "raise to wake" functions never worked since I got the watch. There are some people reporting steps
