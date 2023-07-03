@@ -165,7 +165,7 @@ fixed in 1.00.41: "Agoago" type. Missing spaces remain.<br>
 • Function: sound alarm missing even when "ring" is set<br>
 • <del>UI: text is not vertically centered and changes style (active/not active)</del> fixed in 1.00.41<br>
 • <del>UI: when setting additional alarm and activating it the bell icon is overlapping text</del> fixed in 1.00.41<br>
-• UI: in alarm edit view there is a typo on the delete button - it says "Dele"
+• UI: in alarm edit view there is a typo on the delete button - it says "Dele"<br>
 • adding a new alarm not allways work - sometimes setting are not saved on press on the crown<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/32.jpg" width="300px"/>
 
