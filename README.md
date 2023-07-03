@@ -73,7 +73,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/14.jpg" width="300px"/>
 
 • UI: Missing space and typo in "Resting heartrate" and in "Waling heartrate": 80bpm 0Minutes *Agogo* (space between "0" and "Minutes"  and "ago")<br>
-fixed in 1.00.41: "Agoago" type. Missing spaces remain.
+fixed in 1.00.41: "Agoago" type. Missing spaces remain.<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/15.jpg" width="300px"/>
 
 
@@ -145,7 +145,7 @@ fixed in 1.00.41: "Agoago" type. Missing spaces remain.
 • UI: local music screen (please sync on your App) has a misplaced small music icon on the screen - apears when you tap on the tracklist icon<br>
 • Function: local music: music file transfer not working (android)<br>
 • Function: BT earbud connection doesn't work<br>
-• Wish: please display Cover artwork, Title and Artist of uploaded mp3 song in local music view 
+• Wish: please display Cover artwork, Title and Artist of uploaded mp3 song in local music view <br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/28.jpg" width="300px"/>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/29.jpg" width="300px"/>
 
@@ -166,7 +166,7 @@ fixed in 1.00.41: "Agoago" type. Missing spaces remain.
 • <del>UI: text is not vertically centered and changes style (active/not active)</del> fixed in 1.00.41<br>
 • <del>UI: when setting additional alarm and activating it the bell icon is overlapping text</del> fixed in 1.00.41<br>
 • UI: in alarm edit view there is a typo on the delete button - it says "Dele"
-• adding a new alarm not allways work - sometimes setting are not saved on press on the crown
+• adding a new alarm not allways work - sometimes setting are not saved on press on the crown<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/32.jpg" width="300px"/>
 
 
