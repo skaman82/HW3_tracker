@@ -14,17 +14,19 @@ LIST UPDATE STATE: FW 1.00.40
 This resulting in blown up and blurry graphics - same goes for the honeycomb menu.<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/1.jpg" width="300px"/>
 
+• Function issue: Watch doesn't stop vibrationg when I take a call on my Phone<br>
+
 • UI: In the main menu the rainbow icon opens "sport stats" instead of "step summary". 
 This is not logical as the icon represents the rainbow circle of the "steps stats screen".<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/2.jpg" width="300px"/>
 
-• Function: "Raise to wake" doesnt work on my watch<br>
+• Function issue: "Raise to wake" doesnt work on my watch<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/3.jpg" width="300px"/>
 
 • Weather don't show up on the side dashboard (when you swipe right on the watch face) only cloud icon with a question mark<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/4.jpg" width="300px"/>
 
-• Function: Sometimes charging screen remains on, even when the charger is remooved<br>
+• Function issue: Sometimes charging screen remains on, even when the charger is remooved<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/10.jpg" width="300px"/>
 
 • Not a bug, but but a suggestion: I would love if an interactive watch face style could be locked (now it is still changes style/colors on tap)<br>
