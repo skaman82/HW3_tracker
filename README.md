@@ -13,6 +13,9 @@ or rase to wake functions working - some even both. Regarding this I'm not sure 
 This resulting in blown up and blurry graphics - same goes for the honeycomb menu.<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/1.jpg" width="300px"/>
 
+• UI: Two upper icons in the stock watchface are not working. The right one could be battery level.<br>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/1.jpg" width="300px"/>
+
 • Function issue: Watch doesn't stop vibrationg when I take the call on my Phone<br>
 
 • Function issue: Volume control is not linked to phones volume (even if there is the setting "Media tone control"). When volume on the phone is turned down, increasing the volume on the watch has not much effect<br>
@@ -150,9 +153,12 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • UI: local music screen (please sync on your App) has a misplaced small music icon on the screen - apears when you tap on the tracklist icon<br>
 • Function: local music: music file transfer not working (android)<br>
 • Function: BT earbud connection doesn't work<br>
+• since 1.00.41: When in local music mode, chinese text is shown <br>
 • Wish: please display Cover artwork, Title and Artist of uploaded mp3 song in local music view <br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/28.jpg" width="300px"/>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/29.jpg" width="300px"/>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/2.jpg" width="300px"/>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/3.jpg" width="300px"/>
 
 
 
@@ -179,6 +185,12 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • Function: sound alarm missing - vibration is not enought<br>
 • UI: When timer is finished UI looks stange<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/33.jpg" width="300px"/>
+
+
+## Voise assistant
+• Since 1.00.41: UI now displaying this (not working) toggle instead of the assistant icon<br>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/2.jpg" width="300px"/>
+
 
 
 ## Photo album
