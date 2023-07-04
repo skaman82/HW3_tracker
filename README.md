@@ -16,9 +16,9 @@ This resulting in blown up and blurry graphics - same goes for the honeycomb men
 • UI: All corner icons in the stock watchface are not updating/working. Both on top don't open anything. The top right one could be battery level.<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/1.jpg" width="300px"/>
 
-• CRITICAL Function issue: Watch doesn't stop vibrating when I take the call on my Phone<br>
+• CRITICAL Function issue: Watch doesn't stop vibrating when I take the call on my phone<br>
 
-• CRITICAL Function issue: Volume control is not linked to phones volume (even if there is the setting "Media tone control"). When volume on the phone is turned down, increasing the volume on the watch has not much effect<br>
+• CRITICAL Function issue: Volume control is not linked to phones volume (even if there is the setting "Media tone control"). When volume on the phone is turned down, increasing the volume on the watch has no effect<br>
 
 • UI: In the main menu the rainbow icon opens "sport stats" instead of "step summary". 
 This is not logical as the icon represents the rainbow circle of the "steps stats screen".<br>
