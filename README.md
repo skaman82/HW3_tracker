@@ -81,7 +81,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/14.jpg" width="300px"/>
 
 • UI: Missing space and typo in "Resting heartrate" and in "Walking heartrate": 80bpm 0Minutes *Agogo* (space between "0" and "Minutes"  and "ago")<br>
- in 1.00.41: Typo is still there and appears spontaniosly: Now it is saying "Agoa_" Missing spaces remain.<br>
+ in 1.00.41: Typo is still there and appears spontaniosly (sometimes its there, but mostly not): Now it is saying "Agoa_" Missing spaces remain.<br>
  
  • since 1.00.41: heart rate seems not to be logged in the UI graph anymore<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/15.jpg" width="300px"/>
