@@ -124,7 +124,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 
 ## Call record
-• UI: Call records dissapearing sometimes once viewed - mannually deleting them would be better<br>
+• UI: Call records dissapearing sometimes once viewed<br>
 • function: Call records list of my phone is not displayed, only calls I've made from the watch are visible<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/23.jpg" width="300px"/>
 
