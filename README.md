@@ -6,7 +6,7 @@ REMARK: My step counter and "raise to wake" functions never worked since I got t
 or rase to wake functions working - some even both. Regarding this I'm not sure if this is falty hardware and bad quality control or something else.
 
 
-<b>LIST UPDATE STATE: FW 1.00.41</b>
+<b>LIST UPDATE STATE: FW 1.00.41</b> tested with Android phone
 
 ## General/Menu/Watchfaces
 • UI: current watchfaces seem to have a lower resolution than the watch display. 
@@ -44,6 +44,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • Notifications overflow: too many not usefull notifications normally not displayed by other watches like "tweet send" or "xx new messages" from whattsapp<br>
 • UI: "WhatAapp message summary" message has a corrupted message count when the number is higher then 9 (see photo). But the whole message is unnecessary<br>
 • UI: Not all selectable notifications from the app list have a dedicated icon, WhattsApp, Facebook, Instagramm do. But Telegram for example has a generic icon<br>
+• UI: Some people report time/date on the notifications not being accurate (works on my watch)<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/7.jpg" width="300px"/>
 
 
