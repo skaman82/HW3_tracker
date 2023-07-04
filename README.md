@@ -50,7 +50,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • UI: "Clear all" button would make more sense at the bottom (after scrolling through the messages)<br>
 • UI: Can't delete a single notification - dragging single message left should delete it<br>
 • UI: Currently there is room for a second line of text for the message preview<br>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/6.jpg" width="300px"/>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/6.jpg" width="300px"/>
 
 
 • Seating/Drinking reminder can not be set up yet in the phone app<br>
