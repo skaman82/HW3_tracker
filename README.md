@@ -111,6 +111,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • UI: "All timing" Screen not working / not configurable<br>
 • UI: "add other timing" screen not working / not configurable<br>
 • UI: "Sleep goal" button looks not aligned and has no function<br>
+• App: "Sleep tracking" can not be activated in the app - but heart rate and SPO monitoring<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/19.jpg" width="300px"/>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/20.jpg" width="300px"/>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/21.jpg" width="300px"/>
