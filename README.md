@@ -46,7 +46,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • UI: Not all selectable notifications from the app list have a dedicated icon, WhattsApp, Facebook, Instagramm do. But Telegram for example has a generic icon<br>
 • UI: Some people report time/date on the notifications not being accurate (works on my watch)<br>
 • UI: Can't delete a single notification - only clear all<br>
-• Seating/Drinking reminder can not be set up yet<br>
+• Seating/Drinking reminder can not be set up yet in the phone app<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/7.jpg" width="300px"/>
 
 
@@ -112,7 +112,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • UI: "All timing" Screen not working / not configurable<br>
 • UI: "add other timing" screen not working / not configurable<br>
 • UI: "Sleep goal" button looks not aligned and has no function<br>
-• App: "Sleep tracking" can not be activated in the app - but heart rate and SPO monitoring<br>
+• App: "Sleep tracking" can not be activated in the phone app - only heart rate and SPO monitoring<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/19.jpg" width="300px"/>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/20.jpg" width="300px"/>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/21.jpg" width="300px"/>
