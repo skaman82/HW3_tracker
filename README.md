@@ -41,12 +41,22 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • <del>swiping back from the message detail view shows black screen (when you have a couple messages)</del> fixed in 1.00.41<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/6.jpg" width="300px"/>
 
+• UI: New message banner notification does not disappear on the home screen (should be only visible 2-4 seconds)<br>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/5.jpg" width="300px"/>
+
+• UI: Not all selectable notifications from the app list have a dedicated icon, WhattsApp, Facebook, Instagramm do. But Telegram for example has a generic icon<br>
+• UI: Some people report time/date on the notifications not being accurate (works on my watch with android)<br>
+
+• UI: "Clear all" button would make more sense at the bottom (after scrolling through the messages)<br>
+• UI: Can't delete a single notification - dragging single message left should delete it<br>
+• UI: Currently there is room for a second line of text for the message preview<br>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/6.jpg" width="300px"/>
+
+
+• Seating/Drinking reminder can not be set up yet in the phone app<br>
 • Notifications overflow: too many not usefull notifications normally not displayed by other watches like "tweet send" or "xx new messages" from whattsapp<br>
 • UI: "WhatAapp message summary" message has a corrupted message count when the number is higher then 9 (see photo). But the whole message is unnecessary<br>
-• UI: Not all selectable notifications from the app list have a dedicated icon, WhattsApp, Facebook, Instagramm do. But Telegram for example has a generic icon<br>
-• UI: Some people report time/date on the notifications not being accurate (works on my watch)<br>
-• UI: Can't delete a single notification - only clear all<br>
-• Seating/Drinking reminder can not be set up yet in the phone app<br>
+
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/7.jpg" width="300px"/>
 
 
