@@ -13,7 +13,7 @@ or rase to wake functions working - some even both. Regarding this I'm not sure 
 This resulting in blown up and blurry graphics - same goes for the honeycomb menu.<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/1.jpg" width="300px"/>
 
-• UI: Two upper icons in the stock watchface are not working. The right one could be battery level.<br>
+• UI: All corner icons in the stock watchface are not updating/working. Botch on top don't open anything. The top right one could be battery level.<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/1.jpg" width="300px"/>
 
 • Function issue: Watch doesn't stop vibrating when I take the call on my Phone<br>
