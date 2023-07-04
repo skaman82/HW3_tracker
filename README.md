@@ -199,6 +199,10 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/34.jpg" width="300px"/>
 
 
+## Audio Recording
+• There is no possibility to save the recorded audio file to the phone, only playback<br>
+• No possibility to delete the file on the watch from the phone<br>
+
 ## Settings
 • Battery UI: not really helpfull data - maybee add time since last charge?<br>
 • Settings > Sports: UI is broken, labels not scrolling (too much space between options)<br>
