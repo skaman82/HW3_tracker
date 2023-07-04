@@ -55,7 +55,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 
 ## Allways on display
-• UI: Digital style of AOD is very simple and could have a nicer font and maybe additional info like steps or battery status<br>
+• UI: Digital style of AOD is very simple and could have a nicer font and maybe additional info like steps, day/date or battery status<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/9.jpg" width="300px"/>
 
 
