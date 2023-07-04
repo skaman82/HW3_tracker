@@ -185,6 +185,10 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/32.jpg" width="300px"/>
 
 
+## Stop watch
+• Function: Seconds count does not corresponds real seconds - it is quite off<br>
+
+
 ## Timer
 • Function: sound alarm missing - vibration is not enought<br>
 • UI: When timer is finished UI looks stange<br>
