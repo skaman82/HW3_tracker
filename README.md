@@ -142,7 +142,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 ## Weather
 • UI: Forecast not readable (maybee add an dark gradient in the background or redesign)<br>
 • UI: animated wave has no function and can be remooved <br>
-• UI: scrolling reveals black borders, while swiping left, forecast elements overflows<br>
+• UI: scrolling reveals black borders, while swiping left, forecast elements overflows (only when you start the weather app from the menu)<br>
 • Function: weather not accurtate for my location (16 vs 19 deg)<br>
 • UI: Weather data not showing up on the dashboard in the watchface (only cloud icon - see above)<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/26.jpg" width="300px"/>
