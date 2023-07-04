@@ -16,7 +16,7 @@ This resulting in blown up and blurry graphics - same goes for the honeycomb men
 • UI: Two upper icons in the stock watchface are not working. The right one could be battery level.<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/1.jpg" width="300px"/>
 
-• Function issue: Watch doesn't stop vibrationg when I take the call on my Phone<br>
+• Function issue: Watch doesn't stop vibrating when I take the call on my Phone<br>
 
 • Function issue: Volume control is not linked to phones volume (even if there is the setting "Media tone control"). When volume on the phone is turned down, increasing the volume on the watch has not much effect<br>
 
