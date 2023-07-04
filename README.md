@@ -154,7 +154,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • <del>UI: Play/Pause button has no state change (should be displayed as pause while music is playing)</del> fixed in 1.00.41<br>
 • <del>UI: no visual feedback on volume change</del> fixed in 1.00.41 - but only in local music mode <br>
 • UI: no visual feedback on volume change im "media control" mode, volume level does not controll phone volume<br>
-• UI: loop icon has no functionality in media control mode and can be remooved in "mobile music" state<br>
+• UI: "loop track" icon has no functionality in media control mode and can be remooved in "mobile music" state<br>
 • UI: local music screen (please sync on your App) has a misplaced small music icon on the screen - apears when you tap on the tracklist icon<br>
 • Function: local music: music file transfer not working (android)<br>
 • Function: BT earbud connection doesn't work<br>
