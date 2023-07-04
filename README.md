@@ -205,7 +205,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 ## Audio Recording
 • There is no possibility to save the recorded audio file to the phone, only playback<br>
-• No possibility to delete the file on the watch from the phone<br>
+• No possibility to delete the file on the watch from the phone (android)<br>
 
 ## Settings
 • Battery UI: not really helpfull data - maybee add time since last charge?<br>
