@@ -189,7 +189,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/33.jpg" width="300px"/>
 
 
-## Voise assistant
+## Voice assistant
 • Since 1.00.41: UI now displaying this (not working) toggle instead of the assistant icon<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/2.jpg" width="300px"/>
 
