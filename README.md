@@ -159,7 +159,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • Function: local music: music file transfer not working (android)<br>
 • Function: BT earbud connection doesn't work<br>
 • since 1.00.41: When in local music mode, chinese text is shown <br>
-• Wish: please display Cover artwork, Title and Artist of uploaded mp3 song in local music view <br>
+• Wish: please display Cover artwork, Title and Artist of uploaded mp3 song in local music view - if possible <br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/28.jpg" width="300px"/>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/29.jpg" width="300px"/>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/2.jpg" width="300px"/>
