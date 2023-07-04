@@ -186,7 +186,8 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 
 ## Stop watch
-• Function: Seconds count does not corresponds real seconds - it is quite off<br>
+• Function: Seconds count does not corresponds real seconds (counting stuttering) - it is quite off<br>
+• You cant start the count on crown press, only lapcount function
 
 
 ## Timer
