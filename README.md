@@ -45,6 +45,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • UI: "WhatAapp message summary" message has a corrupted message count when the number is higher then 9 (see photo). But the whole message is unnecessary<br>
 • UI: Not all selectable notifications from the app list have a dedicated icon, WhattsApp, Facebook, Instagramm do. But Telegram for example has a generic icon<br>
 • UI: Some people report time/date on the notifications not being accurate (works on my watch)<br>
+• UI: Can't delete a single notification - only clear all<br>
 • Seating/Drinking reminder can not be set up yet<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/7.jpg" width="300px"/>
 
