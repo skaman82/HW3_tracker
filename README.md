@@ -173,7 +173,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • UI: no visual feedback on volume change im "media control" mode, volume level does not controll phone volume<br>
 • UI: "loop track" icon has no functionality in media control mode and can be remooved in "mobile music" state<br>
 • <del>UI: local music screen (please sync on your App) has a misplaced small music icon on the screen - apears when you tap on the tracklist icon</del> fixed in 1.00.42<br>
-• CRITICAL Function: local music: music file transfer not working (android)<br>
+• <del>CRITICAL Function: local music: music file transfer not working (android)</del><br>
 • CRITICAL Function: BT earbud connection doesn't work<br>
 • <del>since 1.00.41: When in local music mode, chinese text is shown</del> fixed in 1.00.42 <br>
 • Wish: please display Cover artwork, Title and Artist of uploaded mp3 song in local music view - if possible <br>
