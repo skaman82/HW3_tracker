@@ -74,8 +74,9 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 ## Bedside clock
 • <del>Currently missng:</del> Please add and make sure it is constant on with low light intensity while charging.<br>
-- in 1.00.42 bedside clock is added, but display goes off after couple of seconds - (should be constant on independent from screentime setting), also charging state indication is missing (circle in %)<br>
+• BUG: since 1.00.42 bedside clock is added, but display goes off after couple of seconds - (should be constant on independent from screentime setting), also charging state indication is missing (circle in %)<br>
 - on my watch display doesn't rotate on orientation change<br>
+• BUG since 1.00.42: when switching in bedside clock mode watch sometimes reboots
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/10.jpg" width="300px"/>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/bs.png" width="300px"/>
 
