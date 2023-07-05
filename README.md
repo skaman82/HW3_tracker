@@ -32,7 +32,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • CRITICAL Weather don't show up on the side dashboard (when you swipe right on the watch face) only cloud icon with a question mark<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/4.jpg" width="300px"/>
 
-• Function issue: Sometimes charging screen remains on, even when the charger is remooved<br>
+• <del>Function issue: Sometimes charging screen remains on, even when the charger is remooved</del> - this screen is now updated with the bedside clock mode since 1.00.42<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/10.jpg" width="300px"/>
 
 • Not a bug, but but a suggestion: I would love if an interactive watch face style could be locked (now it is still changes style/colors on tap)<br>
