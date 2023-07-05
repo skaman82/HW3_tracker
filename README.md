@@ -217,8 +217,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 ## Voice assistant
 • <del>Since 1.00.41: UI now displaying this (not working) toggle instead of the assistant icon</del> - fixed in 1.00.42 - appears now only if BT is not connected<br>
-• since 1.00.42 - BUG: voice assistant not starting on the phone anymore
-• CRITICAL Assistant answer is not playing through the watch<br>
+• <del>CRITICAL Assistant answer is not playing through the watch</del> - fixed in 1.00.42<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/4.jpg" width="300px"/>
 
 
