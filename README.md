@@ -20,6 +20,8 @@ This resulting in blown up and blurry graphics - same goes for the honeycomb men
 
 • CRITICAL Function issue: Volume control is not linked to phones volume (even if there is the setting "Media tone control"). When volume on the phone is turned down, increasing the volume on the watch has no effect<br>
 
+- since 1.00.42 the watch has a new BT profile (detected as a watch) - in the BT device options on the phone you can activate the volume sync, but I think this should be on by default, like with other bt speakers <br>
+
 • UI: In the main menu the rainbow icon opens "sport stats" instead of "step summary". 
 This is not logical as the icon represents the rainbow circle of the "steps stats screen".<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/2.jpg" width="300px"/>
