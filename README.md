@@ -141,6 +141,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 ## Call record
 • CRITICAL UI: Call records dissapearing sometimes once viewed<br>
+• CRITICAL UI: Call records not scrollable<br>
 • NEW in 1.00.42 - deleting a call record (swiping left) breaks the UI (black bar)<br>
 • function: Call records list of my phone is not displayed, only calls I've made from the watch are visible<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/23.jpg" width="300px"/>
