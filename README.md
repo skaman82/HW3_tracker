@@ -50,7 +50,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • UI: Some people report time/date on the notifications not being accurate (works on my watch with android)<br>
 
 • UI: "Clear all" button would make more sense at the bottom (after scrolling through the messages)<br>
-• <del>CRITICAL UI: Can't delete a single notification - dragging single message left should delete it - test with multiple notifications</del> kind of fixed in 1.00.42 - but sometimes deleting still doesn't work <br>
+•CRITICAL UI: Can't delete a single notification - dragging single message left should delete it - test with multiple notifications. Occasionally deleting works but in most casen it is not <br>
 • UI: Currently there is room for a second line of text for the message preview<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/6.jpg" width="300px"/>
 
