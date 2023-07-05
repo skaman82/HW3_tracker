@@ -6,7 +6,7 @@ REMARK: My step counter and "raise to wake" functions never worked since I got t
 or rase to wake functions working - some even both. Regarding this I'm not sure if this is falty hardware and bad quality control or something else.
 
 
-<b>LIST UPDATE STATE: FW 1.00.41</b> tested with Android phone
+<b>LIST UPDATE STATE: FW 1.00.42</b> tested with Android phone
 
 ## General/Menu/Watchfaces
 • UI: current watchfaces seem to have a lower resolution than the watch display. 
@@ -48,12 +48,12 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • UI: Some people report time/date on the notifications not being accurate (works on my watch with android)<br>
 
 • UI: "Clear all" button would make more sense at the bottom (after scrolling through the messages)<br>
-• CRITICAL UI: Can't delete a single notification - dragging single message left should delete it<br>
+• <del>CRITICAL UI: Can't delete a single notification - dragging single message left should delete it - test with multiple notifications</del> kind of fixed in 1.00.42 - but sometimes deleting still doesn't work <br>
 • UI: Currently there is room for a second line of text for the message preview<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/6.jpg" width="300px"/>
 
 
-• CRITICAL Seating/Drinking reminder can not be set up yet in the phone app<br>
+• <del>CRITICAL Seating/Drinking reminder can not be set up yet in the phone app</del> fixed in  1.00.42 - to be tested if reminder is working<br>
 • Notifications overflow: too many not usefull notifications normally not displayed by other watches like "tweet send" or "xx new messages" from whattsapp<br>
 • UI: "WhatAapp message summary" message has a corrupted message count when the number is higher then 9 (see photo). But the whole message is unnecessary<br>
 
@@ -71,7 +71,9 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 
 ## Bedside clock
-• Currently missng: Please add and make sure it is constant on with low light intensity while charging.<br>
+• <del>Currently missng:</del> Please add and make sure it is constant on with low light intensity while charging.<br>
+- in 1.00.42 bedside clock is added, but display goes off after couple of seconds - (should be constant on independent from screentime setting), also charging state indication is missing (circle in %)<br>
+- on my watch display doesn't rotate on orientation change<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/10.jpg" width="300px"/>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/bs.png" width="300px"/>
 
@@ -93,7 +95,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • UI: Missing space and typo in "Resting heartrate" and in "Walking heartrate": 80bpm 0Minutes *Agogo* (space between "0" and "Minutes"  and "ago")<br>
  in 1.00.41: Typo is still there and appears spontaniosly (sometimes its there, but mostly not): Now it is saying "Agoa_" Missing spaces remain.<br>
  
- • CRITICAL since 1.00.41: heart rate seems not to be logged in the UI graph anymore<br>
+ • <del>CRITICAL since 1.00.41: heart rate seems not to be logged in the UI graph anymore</del> - fixed in 1.00.42<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/15.jpg" width="300px"/>
 
 
@@ -112,7 +114,8 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 
 ## Compass
-• CRITICAL Function: Not working on my watch yet - compass only mooving a few degrees if I rotate the watch<br>
+• <del>CRITICAL Function: Not working on my watch yet - compass only mooving a few degrees if I rotate the watch</del> - kind of fixed in 1.00.42<br>
+• NEW in 1.00.42: Compas feezes somtimes<br>
 • UI: switching between the two compass modes not allways work (tapping on the list icon)<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/18.jpg" width="300px"/>
 
@@ -135,6 +138,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 ## Call record
 • CRITICAL UI: Call records dissapearing sometimes once viewed<br>
+• NEW in 1.00.42 - deleting a call record (swiping left) breaks the UI (black bar)<br>
 • function: Call records list of my phone is not displayed, only calls I've made from the watch are visible<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/23.jpg" width="300px"/>
 
@@ -165,10 +169,10 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • <del>UI: no visual feedback on volume change</del> fixed in 1.00.41 - but only in local music mode <br>
 • UI: no visual feedback on volume change im "media control" mode, volume level does not controll phone volume<br>
 • UI: "loop track" icon has no functionality in media control mode and can be remooved in "mobile music" state<br>
-• UI: local music screen (please sync on your App) has a misplaced small music icon on the screen - apears when you tap on the tracklist icon<br>
+• <del>UI: local music screen (please sync on your App) has a misplaced small music icon on the screen - apears when you tap on the tracklist icon</del> fixed in 1.00.42<br>
 • CRITICAL Function: local music: music file transfer not working (android)<br>
 • CRITICAL Function: BT earbud connection doesn't work<br>
-• since 1.00.41: When in local music mode, chinese text is shown <br>
+• <del>since 1.00.41: When in local music mode, chinese text is shown</del> fixed in 1.00.42 <br>
 • Wish: please display Cover artwork, Title and Artist of uploaded mp3 song in local music view - if possible <br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/28.jpg" width="300px"/>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/29.jpg" width="300px"/>
@@ -177,7 +181,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 
 
-## Position
+## Position app
 • Function: This doesn't work yet on my watch<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/30.jpg" width="300px"/>
 
@@ -192,7 +196,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • <del>UI: text is not vertically centered and changes style (active/not active)</del> fixed in 1.00.41<br>
 • <del>UI: when setting additional alarm and activating it the bell icon is overlapping text</del> fixed in 1.00.41<br>
 • UI: in alarm edit view there is a typo on the delete button - it says "Dele"<br>
-• CRITICAL adding a new alarm not allways work - sometimes setting are not saved on press on the crown<br>
+• <del>CRITICAL adding a new alarm not allways work</del> - fixed in 1.00.42<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/32.jpg" width="300px"/>
 
 
@@ -208,14 +212,15 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 
 ## Voice assistant
-• Since 1.00.41: UI now displaying this (not working) toggle instead of the assistant icon<br>
+• <del>Since 1.00.41: UI now displaying this (not working) toggle instead of the assistant icon</del> - fixed in 1.00.42 - appears now only if BT is not connected<br>
+• since 1.00.42 - BUG: voice assistant not starting on the phone anymore
 • CRITICAL Assistant answer is not playing through the watch<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/4.jpg" width="300px"/>
 
 
 
 ## Photo album
-• CRITICAL Function: Deleting a photo doesn't work
+• <del>CRITICAL Function: Deleting a photo doesn't work</del> fixed in 1.00.42<br>
 • UI: Delete button labell is not scrolling and is cut off<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/34.jpg" width="300px"/>
 
@@ -223,6 +228,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 ## Audio Recording
 • CRITICAL There is no possibility to save the recorded audio file to the phone, only playback<br>
 • No possibility to delete the file on the watch from the phone (android)<br>
+• NEW since 1.00.42: BUG: playback of an audio recording in the phone app corrupted - only noise.<br>
 
 ## Settings
 • Battery UI: not really helpfull data - maybee add time since last charge?<br>
