@@ -48,7 +48,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/5.jpg" width="300px"/>
 
 • UI: Not all selectable notifications from the app list have a dedicated icon, WhattsApp, Facebook, Instagramm do. But Telegram for example has a generic icon<br>
-• UI: Some people report time/date on the notifications not being accurate (works on my watch with android)<br>
+• UI: <del>Some people report time/date on the notifications not being accurate (works on my watch with android)</del> - reported as fixed in 1.00.42<br>
 
 • UI: "Clear all" button would make more sense at the bottom (after scrolling through the messages)<br>
 •CRITICAL UI: Can't delete a single notification - dragging single message left should delete it - test with multiple notifications. Occasionally deleting works but in most casen it is not <br>
