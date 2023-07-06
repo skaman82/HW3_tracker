@@ -73,9 +73,9 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 
 ## Bedside clock
-• <del>Currently missng:</del> Please add and make sure it is constant on with low light intensity while charging.<br>
-• BUG: since 1.00.42 bedside clock is added, but display goes off after couple of seconds - (should be constant on independent from screentime setting), also charging state indication is missing (circle in %)<br>
-- on my watch display doesn't rotate on orientation change<br>
+• <del>Currently missng:</del> Please make sure it is constant on with low light intensity while charging or add at leas this option to the bedside clock setup screen.<br>
+• BUG: since 1.00.42 bedside clock is added, but display goes off after couple of seconds, also charging state indication is missing (circle in %)<br>
++ on my watch display doesn't rotate on orientation change<br>
 • BUG since 1.00.42: when switching in bedside clock mode watch sometimes reboots
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/10.jpg" width="300px"/>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/bs.png" width="300px"/>
@@ -83,12 +83,14 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 ## Sports (very brief tested so there may be more)
 • UI: Lock/Add buttons during an activity have no function - icons are not logical<br>
+• Workout/Activity stats are now shown when workout is finished - saving them (button) doesn't work<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/13.jpg" width="300px"/>
 
 <i>• rest to be tested</i>
 
 ## Sport record
 • UI: Icon makes no sense as it is showing "Step rainbow"<br>
+• finished Workout/Activity is not listed yet<br>
 <i>• rest to be tested</i>
 
 ## Heart Rate
@@ -118,13 +120,13 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 ## Compass
 • <del>CRITICAL Function: Not working on my watch yet - compass only mooving a few degrees if I rotate the watch</del> - kind of fixed in 1.00.42<br>
-• NEW in 1.00.42: Compas feezes somtimes<br>
-• UI: switching between the two compass modes not allways work (tapping on the list icon)<br>
+• NEW in 1.00.42: Compas feezes regulary<br>
+• UI: switching between the two compass modes not allways work/very laggy (tapping on the list icon)<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/18.jpg" width="300px"/>
 
 
 ## Sleep
-• CRITICAL Tracking & Stats: Not working on my watch yet <br>
+• CRITICAL Sleep tracking & Stats: Not working on my watch yet <br>
 • UI: "All timing" Screen not working / not configurable<br>
 • UI: "add other timing" screen not working / not configurable<br>
 • UI: "Sleep goal" button looks not aligned and has no function<br>
@@ -140,9 +142,9 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 
 ## Call record
-• CRITICAL UI: Call records dissapearing sometimes once viewed<br>
-• CRITICAL UI: Call records not scrollable<br>
-• NEW in 1.00.42 - deleting a call record (swiping left) breaks the UI (black bar)<br>
+• <del>CRITICAL UI: Call records dissapearing sometimes once viewed</del><br>
+• CRITICAL UI: Call records not scrollable if the list getting longer<br>
+• NEW in 1.00.42 - deleting a call record (swiping left) breaks the UI (grey background breaks)<br>
 • function: Call records list of my phone is not displayed, only calls I've made from the watch are visible<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/23.jpg" width="300px"/>
 
@@ -161,8 +163,8 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • CRITICAL UI: Forecast not readable (maybee add an dark gradient in the background or redesign)<br>
 • UI: animated wave has no function and can be remooved <br>
 • CRITICAL UI: scrolling reveals black borders, while swiping left, forecast elements overflows (only when you start the weather app from the menu)<br>
-• Function: weather not accurtate for my location (16 vs 19 deg)<br>
-• UI: Weather data not showing up on the dashboard in the watchface (only cloud icon - see above)<br>
+• Function: weather not accurtate for my location (16 vs 19 deg/sunny vs raining)<br>
+• UI: Weather data not showing up on the dashboard in the watchface (only cloud icon with a "?" - see above)<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/26.jpg" width="300px"/>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/27.jpg" width="300px"/>
 
@@ -176,8 +178,8 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • <del>UI: local music screen (please sync on your App) has a misplaced small music icon on the screen - apears when you tap on the tracklist icon</del> fixed in 1.00.42<br>
 • <del>CRITICAL Function: local music: music file transfer not working (android)</del><br>
 • CRITICAL Function: BT earbud connection doesn't work<br>
-• <del>since 1.00.41: When in local music mode, chinese text is shown</del> fixed in 1.00.42 <br>
-• Wish: please display Cover artwork, Title and Artist of uploaded mp3 song in local music view - if possible <br>
+• since 1.00.41: when in local music mode, chinese text is shown sometimes<br>
+• Function request: please display cover artwork, title and artist of uploaded mp3 song in local music view - if possible <br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/28.jpg" width="300px"/>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/29.jpg" width="300px"/>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/2.jpg" width="300px"/>
@@ -231,6 +233,11 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 ## Audio Recording
 • CRITICAL There is no possibility to save the recorded audio file to the phone, only playback<br>
 • No possibility to delete the file on the watch from the phone (android)<br>
+
+
+## Find my watch
+• please add beeping/ringing sound to the watch<br>
+
 
 ## Settings
 • Battery UI: not really helpfull data - maybee add time since last charge?<br>
