@@ -104,6 +104,8 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
  • <del>CRITICAL since 1.00.41: heart rate seems not to be logged in the UI graph anymore</del> - fixed in 1.00.42<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/15.jpg" width="300px"/>
 
+• CRITICAL: Heart rate logging inconsistant (doesn't record data sometimes)<br>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/hr_log.jpg" width="300px"/>
 
 ## SPO
 • UI: Result screen doesnt look good<br>
