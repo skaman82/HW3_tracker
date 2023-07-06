@@ -51,7 +51,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • UI: <del>Some people report time/date on the notifications not being accurate (works on my watch with android)</del> - reported as fixed in 1.00.42<br>
 
 • UI: "Clear all" button would make more sense at the bottom (after scrolling through the messages)<br>
-•CRITICAL UI: Can't delete a single notification - dragging single message left should delete it - test with multiple notifications. Occasionally deleting works but in most casen it is not <br>
+•CRITICAL UI: Custom wallpaper watchface breaking notification delete function: Can't delete a single notification in a stack when custom wallpaper watchface is used <br>
 • UI: Currently there is room for a second line of text for the message preview<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/6.jpg" width="300px"/>
 
@@ -124,7 +124,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 ## Compass
 • <del>CRITICAL Function: Not working on my watch yet - compass only mooving a few degrees if I rotate the watch</del> - kind of fixed in 1.00.42<br>
-• NEW in 1.00.42: Compas feezes regulary<br>
+• NEW in 1.00.42: Compas working initially after factory reset, but stops working after a short while using the watch<br>
 • UI: switching between the two compass modes not allways work/very laggy (tapping on the list icon)<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/18.jpg" width="300px"/>
 
