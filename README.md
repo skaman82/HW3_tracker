@@ -38,7 +38,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • Not a bug, but but a suggestion: I would love if an interactive watch face style could be locked (now it is still changes style/colors on tap)<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/5.jpg" width="300px"/>
 
-• NEW BUG since 1.0.42: turning the crown normally gives some haptic feedback, but after a while the vibration is completeley gone until you restart the watch.<br> 
+• NEW BUG since 1.0.42: turning the crown normally gives some haptic feedback, but sometimes after a while the vibration is completeley gone until you restart the watch.<br> 
 
 ## Notifications
 
