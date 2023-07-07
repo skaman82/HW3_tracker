@@ -2,7 +2,7 @@
 Here I want to list all current issues of the watch at current firmware development stages. The goal is not to make the watch to look bad, but to show the issues and demonstrate where things could be improoved to make it a good product. I think this watch has potential, but it is clearly "not there yet". I am sure even people would pay up to 50% more for this watch if the software and functionality is REALLY MUCH better than other replicas. Main focus is UI and functionallity of the watch core functions. While smoothness is an overall an issue, I leave this aside, since the functionality has a much higher priority.
 
 
-REMARK: My step counter and "raise to wake" functions never worked since I got the watch - at leas I have not tested it befor doing an update. There are some people reporting steps
+REMARK: My step counter and "raise to wake" functions never worked since I got the watch - at least I have not tested it before doing an update. There are some people reporting steps
 or rase to wake functions working - some even both. Regarding this I'm not sure if this is falty hardware and bad quality control or something else.
 
 
