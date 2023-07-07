@@ -69,7 +69,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 
 ## Custom watchfaces
-• CRITICAL: Custom watchface breaks notification system - deleting one single message not possible (see above)<br> 
+• CRITICAL: Custom watchface breaks notification system - deleting one single message in the stack not possible anymore (see above)<br> 
 • Function request: please also add pointer dial style to make it perfect<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/8.jpg" width="300px"/>
 
