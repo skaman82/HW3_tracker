@@ -210,7 +210,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 
 ## Alarms
-• CRITICAL Function issue: sound alarm missing even when "ring" is set, also vibration too weak and to short<br>
+• CRITICAL Function issue: sound alarm missing even when "ring" is set, also vibration too weak and only happens once (not in a loop until set to off/snooze)<br>
 • CRITICAL Function issue: Snooze function does not work, alarm not repeating<br>
 • UI: in alarm edit view there is a typo on the delete button - it says "Dele"<br>
 • <del>UI: text is not vertically centered and changes style (active/not active)</del> fixed in 1.00.41<br>
