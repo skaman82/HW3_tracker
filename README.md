@@ -247,7 +247,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 
 ## Audio Recording
-• CRITICAL There is no possibility to save the recorded audio file to the phone, only playback<br>
+• CRITICAL There is no possibility to save the recorded audio file to the phone, only playback (android) - iPhone app can already do this<br>
 • No possibility to delete the file on the watch from the phone (android) on iPhone it seems to work<br>
 
 
