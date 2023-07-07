@@ -67,6 +67,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 
 ## Custom watchfaces
+• CRITICAL: Custom watchface breaks notification system - deleting one single message not possible (see above)<br> 
 • Function request: please also add pointer dial style to make it perfect<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/8.jpg" width="300px"/>
 
@@ -103,7 +104,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/14.jpg" width="300px"/>
 
 • UI: Missing space and typo in "Resting heartrate" and in "Walking heartrate": 80bpm 0Minutes *Agogo* (space between "0" and "Minutes"  and "ago")<br>
- in 1.00.41: Typo is still there and appears spontaniosly (sometimes its there, but mostly not): Now it is saying "Agoa_" Missing spaces remain.<br>
+ in 1.00.42: seem to be fixed, but "Missing spaces" remain.<br>
  
  • <del>CRITICAL since 1.00.41: heart rate seems not to be logged in the UI graph anymore</del> - fixed in 1.00.42<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/15.jpg" width="300px"/>
