@@ -26,7 +26,7 @@ This resulting in blown up and blurry graphics<br>
 This is not logical as the icon represents the rainbow circle of the "steps stats screen".<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/2.jpg" width="300px"/>
 
-• CRITICAL Function issue: "Raise to wake" doesnt work on my watch - might be a rardware fault (see above)<br>
+• CRITICAL Function issue: "Raise to wake" doesnt work on my watch - might be a hardware fault (see above)<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/3.jpg" width="300px"/>
 
 • CRITICAL Weather don't show up on the side dashboard (when you swipe right on the watch face) only cloud icon with a question mark<br>
