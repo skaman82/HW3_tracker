@@ -41,6 +41,9 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • NEW BUG since 1.0.42: turning the crown normally gives some haptic feedback, but after a while the vibration is completeley gone until you restart the watch.<br> 
 
 ## Notifications
+
+• Message detail UI: Longer messages are not displayed in full and cut off in the detail view<br> 
+
 • <del>swiping back from the message detail view shows black screen (when you have a couple messages)</del> fixed in 1.00.41<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/6.jpg" width="300px"/>
 
@@ -58,7 +61,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 • <del>CRITICAL Seating/Drinking reminder can not be set up yet in the phone app</del> fixed in  1.00.42 - but reminders dont work yet on the watch<br>
 • Notifications overflow: too many not usefull notifications normally not displayed by other watches like "tweet send" or "xx new messages" from whattsapp<br>
-• UI: "WhatAapp message summary" message has a corrupted message count when the number is higher then 9 (see photo). But the whole message is unnecessary<br>
+• UI: "WhatAapp message summary" message has a corrupted message count when the number is higher then 9 (see photo). But the whole message is unnecessary. The companion app should filter those default nonsense messages out and only sent usefull messages to the watch<br>
 
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/7.jpg" width="300px"/>
 
@@ -202,7 +205,8 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 
 ## Alarms
-• CRITICAL Function issue: sound alarm missing even when "ring" is set<br>
+• CRITICAL Function issue: sound alarm missing even when "ring" is set, also vibration too weak<br>
+• CRITICAL Function issue: Snooze function does not work, alarm not repeating<br>
 • <del>UI: text is not vertically centered and changes style (active/not active)</del> fixed in 1.00.41<br>
 • <del>UI: when setting additional alarm and activating it the bell icon is overlapping text</del> fixed in 1.00.41<br>
 • UI: in alarm edit view there is a typo on the delete button - it says "Dele"<br>
