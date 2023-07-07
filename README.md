@@ -79,7 +79,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 
 ## Bedside clock
-• <del>Currently missng:</del> Please make sure it is constant on with low light intensity while charging or add at leas this option to the bedside clock setup screen.<br>
+• <del>Currently missng:</del> Please make sure it is constant on with low light intensity while charging or add at least this option to the bedside clock setup screen.<br>
 • BUG: since 1.00.42 bedside clock is added, but display goes off after couple of seconds, also charging state indication is missing (circle in %)<br>
 + on my watch display doesn't rotate on orientation change<br>
 • BUG since 1.00.42: when switching in bedside clock mode watch sometimes reboots<br>
