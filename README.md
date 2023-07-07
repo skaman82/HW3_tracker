@@ -175,7 +175,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • CRITICAL UI: scrolling reveals black borders, while swiping left, forecast elements overflows (only when you start the weather app from the menu)<br>
 • UI: Weather data not showing up on the dashboard in the watchface (only cloud icon with a "?" - see above)<br>
 • UI: animated wave has no function and can be remooved <br>
-• Function: weather not accurtate for my location (16 vs 19 deg/sunny vs raining)<br>
+• Function: weather not very accurtate for my location (16 vs 19 deg/sunny vs raining)<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/26.jpg" width="300px"/>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/27.jpg" width="300px"/>
 
@@ -200,7 +200,8 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 
 ## Position app
-• Function: This doesn't work yet on my watch<br>
+• Function: This doesn't work yet on my watch (could be left out to reduce developing cost)<br>
+• if you want to do it right, use this app for navigational directions from googleMaps/AndroidAuto + Apple Maps - since the phone app already sending navigational messages every 3 seconds while navigating, but they currently ending up as a text message. But I could understand if this would be to big for this price range<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/30.jpg" width="300px"/>
 
 
