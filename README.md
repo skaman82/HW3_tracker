@@ -48,7 +48,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 •CRITICAL UI: Custom wallpaper watchface breaking notification delete function: Can't delete a single notification in a stack when custom wallpaper watchface is used <br>
 
 • CRITICAL Seating/Drinking reminder <del>can not be set up yet in the phone app</del> fixed in  1.00.42 - but reminders dont work yet on the watch<br>
-• Notifications overflow: too many not usefull notifications normally not displayed by other watches like "tweet send" or "xx new messages" from whattsapp<br>
+• CRITICAL: Notifications overflow: too many not usefull notifications normally not displayed by other watches like "tweet send" or "xx new messages"/ "you have xx new messages" from whattsapp - please filer the most common out<br>
 
 • Message detail UI: Longer messages are not displayed in full and cut off in the detail view<br> 
 
