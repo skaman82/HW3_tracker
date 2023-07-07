@@ -39,8 +39,8 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • Not a bug, but but a suggestion: I would love if an interactive watch face style could be locked (now it is still changes style/colors on tap)<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/5.jpg" width="300px"/>
 
-## Notifications
 
+## Notifications
 
 • CRITICAL UI: New message banner notification does not disappear on the home screen (should be only visible 2-4 seconds)<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/5.jpg" width="300px"/>
@@ -48,7 +48,8 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 •CRITICAL UI: Custom wallpaper watchface breaking notification delete function: Can't delete a single notification in a stack when custom wallpaper watchface is used <br>
 
 • CRITICAL Seating/Drinking reminder <del>can not be set up yet in the phone app</del> fixed in  1.00.42 - but reminders dont work yet on the watch<br>
-• CRITICAL: Notifications overflow: too many not usefull notifications normally not displayed by other watches like "tweet send" or "xx new messages"/ "you have xx new messages" from whattsapp - please filer the most common out<br>
+
+• CRITICAL: Notifications overflow: too many not usefull notifications normally not displayed by other watches like "tweet send" or "xx new messages"/"you have xx new messages" from whattsapp on top of the "usefull" messages - please filer the most common out in the phone app<br>
 
 • Message detail UI: Longer messages are not displayed in full and cut off in the detail view<br> 
 
