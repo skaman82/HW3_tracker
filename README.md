@@ -9,22 +9,10 @@ or rase to wake functions working - some even both. Regarding this I'm not sure 
 <b>LIST UPDATE STATE: FW 1.00.42</b> tested with Android phone
 
 ## General/Menu/Watchfaces
-• UI: current watchfaces seem to have a lower resolution than the watch display. 
-This resulting in blown up and blurry graphics<br>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/1.jpg" width="300px"/>
-
-• UI: All corner icons in the stock watchface are not updating/working. Both on top don't open anything. The top right one could be battery level.<br>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/1.jpg" width="300px"/>
-
 • CRITICAL Function issue: Watch doesn't stop vibrating when I take the call on my phone<br>
 
 • CRITICAL Function issue: Volume control is not linked to phones volume (even if there is the setting "Media tone control"). When volume on the phone is turned down, increasing the volume on the watch has no effect<br>
-
 - since 1.00.42 the watch has a new BT profile (detected as a watch) - in the BT device options on the phone you can activate the volume sync, but I think this should be on by default, like with other bt speakers <br>
-
-• UI: In the main menu the rainbow icon opens "sport stats" instead of "step summary". 
-This is not logical as the icon represents the rainbow circle of the "steps stats screen".<br>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/2.jpg" width="300px"/>
 
 • CRITICAL Function issue: "Raise to wake" doesnt work on my watch - might be a hardware fault (see above)<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/3.jpg" width="300px"/>
@@ -32,38 +20,51 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • CRITICAL Weather don't show up on the side dashboard (when you swipe right on the watch face) only cloud icon with a question mark<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/4.jpg" width="300px"/>
 
+• UI: current watchfaces seem to have a lower resolution than the watch display. 
+This resulting in blown up and blurry graphics<br>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/1.jpg" width="300px"/>
+
+• UI: All corner icons in the stock watchface are not updating/working. Both on top don't open anything. The top right one could be battery level.<br>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/1.jpg" width="300px"/>
+
+• UI: In the main menu the rainbow icon opens "sport stats" instead of "step summary". 
+This is not logical as the icon represents the rainbow circle of the "steps stats screen".<br>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/2.jpg" width="300px"/>
+
 • <del>Function issue: Sometimes charging screen remains on, even when the charger is remooved</del> - this screen is now updated with the bedside clock mode since 1.00.42<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/10.jpg" width="300px"/>
+
+• NEW BUG since 1.0.42: turning the crown normally gives some haptic feedback, but sometimes after a while the vibration is completeley gone until you restart the watch.<br> 
 
 • Not a bug, but but a suggestion: I would love if an interactive watch face style could be locked (now it is still changes style/colors on tap)<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/5.jpg" width="300px"/>
 
-• NEW BUG since 1.0.42: turning the crown normally gives some haptic feedback, but sometimes after a while the vibration is completeley gone until you restart the watch.<br> 
-
 ## Notifications
 
-• Message detail UI: Longer messages are not displayed in full and cut off in the detail view<br> 
-
-• <del>swiping back from the message detail view shows black screen (when you have a couple messages)</del> fixed in 1.00.41<br>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/6.jpg" width="300px"/>
 
 • CRITICAL UI: New message banner notification does not disappear on the home screen (should be only visible 2-4 seconds)<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/5.jpg" width="300px"/>
 
-• UI: Not all selectable notifications from the app list have a dedicated icon, WhattsApp, Facebook, Instagramm do. But Telegram for example has a generic icon<br>
-• UI: <del>Some people report time/date on the notifications not being accurate (works on my watch with android)</del> - reported as fixed in 1.00.42<br>
-
-• UI: "Clear all" button would make more sense at the bottom (after scrolling through the messages)<br>
 •CRITICAL UI: Custom wallpaper watchface breaking notification delete function: Can't delete a single notification in a stack when custom wallpaper watchface is used <br>
-• UI: Currently there is room for a second line of text for the message preview<br>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/6.jpg" width="300px"/>
-
 
 • CRITICAL Seating/Drinking reminder <del>can not be set up yet in the phone app</del> fixed in  1.00.42 - but reminders dont work yet on the watch<br>
 • Notifications overflow: too many not usefull notifications normally not displayed by other watches like "tweet send" or "xx new messages" from whattsapp<br>
-• UI: "WhatAapp message summary" message has a corrupted message count when the number is higher then 9 (see photo). But the whole message is unnecessary. The companion app should filter those default nonsense messages out and only sent usefull messages to the watch<br>
 
+• Message detail UI: Longer messages are not displayed in full and cut off in the detail view<br> 
+
+• UI: Not all selectable notifications from the app list have a dedicated icon, WhattsApp, Facebook, Instagramm do. But Telegram for example has a generic icon<br>
+
+• UI: "Clear all" button would make more sense at the bottom (after scrolling through the messages)<br>
+• UI: Currently there is room for a second line of text for the message preview<br>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/6.jpg" width="300px"/>
+
+• UI: "WhatAapp message summary" message has a corrupted message count when the number is higher then 9 (see photo). But the whole message is unnecessary. The companion app should filter those default nonsense messages out and only sent usefull messages to the watch<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/7.jpg" width="300px"/>
+
+• <del>swiping back from the message detail view shows black screen (when you have a couple messages)</del> fixed in 1.00.41<br>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/6.jpg" width="300px"/>
+
+• UI: <del>Some people report time/date on the notifications not being accurate (works on my watch with android)</del> - reported as fixed in 1.00.42<br>
 
 
 ## Custom watchfaces
@@ -100,6 +101,10 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 <i>• rest to be tested</i>
 
 ## Heart Rate
+
+• CRITICAL: Heart rate logging inconsistant (doesn't record data sometimes)<br>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/hr_log.jpg" width="300px"/>
+
 • UI: Missing space: 80bpm 0Minutes ago (space between "0" and "Minutes")<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/14.jpg" width="300px"/>
 
@@ -109,8 +114,6 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
  • <del>CRITICAL since 1.00.41: heart rate seems not to be logged in the UI graph anymore</del> - fixed in 1.00.42<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/15.jpg" width="300px"/>
 
-• CRITICAL: Heart rate logging inconsistant (doesn't record data sometimes)<br>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/hr_log.jpg" width="300px"/>
 
 ## SPO
 • UI: Result screen doesnt look good<br>
@@ -127,9 +130,9 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 
 ## Compass
-• <del>CRITICAL Function: Not working on my watch yet - compass only mooving a few degrees if I rotate the watch</del> - kind of fixed in 1.00.42<br>
-• NEW in 1.00.42: Compas working initially after factory reset, but stops working after a short while using the watch<br>
+• CRITICAL: NEW in 1.00.42: Compas working initially after factory reset, but stops working after a short while using the watch<br>
 • UI: switching between the two compass modes not allways work/very laggy (tapping on the list icon)<br>
+• <del>CRITICAL Function: Not working on my watch yet - compass only mooving a few degrees if I rotate the watch</del> - kind of fixed in 1.00.42<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/18.jpg" width="300px"/>
 
 
@@ -150,11 +153,11 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 
 ## Call record
-• <del>CRITICAL UI: Call records dissapearing sometimes once viewed</del><br>
 • CRITICAL UI: Call records not scrollable if the list getting longer<br>
 • NEW in 1.00.42 - deleting a call record (swiping left) breaks the UI (grey background breaks)<br>
 • function: Call records list of my phone is not displayed, only calls I've made from the watch are visible<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/23.jpg" width="300px"/>
+• <del>CRITICAL UI: Call records dissapearing sometimes once viewed</del><br>
 
 
 ## Contacts
@@ -169,25 +172,26 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 ## Weather
 • CRITICAL UI: Forecast not readable (maybee add an dark gradient in the background or redesign)<br>
-• UI: animated wave has no function and can be remooved <br>
 • CRITICAL UI: scrolling reveals black borders, while swiping left, forecast elements overflows (only when you start the weather app from the menu)<br>
-• Function: weather not accurtate for my location (16 vs 19 deg/sunny vs raining)<br>
 • UI: Weather data not showing up on the dashboard in the watchface (only cloud icon with a "?" - see above)<br>
+• UI: animated wave has no function and can be remooved <br>
+• Function: weather not accurtate for my location (16 vs 19 deg/sunny vs raining)<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/26.jpg" width="300px"/>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/27.jpg" width="300px"/>
 
 
 ## Music
+• CRITICAL Function: BT earbud connection doesn't work<br>
+• UI: no visual feedback on volume change im "media control" mode, volume level does not controll phone volume<br>
+• UI: "loop track" icon has no functionality in media control mode and can be remooved in "mobile music" state<br>
+• since 1.00.41: when in local music mode, chinese text is shown sometimes<br>
+• Function request: please display cover artwork, title and artist of uploaded mp3 song in local music view - if possible <br>
+
+• <del>UI: local music screen (please sync on your App) has a misplaced small music icon on the screen - apears when you tap on the tracklist icon</del> fixed in 1.00.42<br>
+• <del>CRITICAL Function: local music: music file transfer not working (android)</del><br>
 • <del>UI: Track name is not displayed properly while in media control mode (only first track gets updated)</del> fixed in 1.00.41<br>
 • <del>UI: Play/Pause button has no state change (should be displayed as pause while music is playing)</del> fixed in 1.00.41<br>
 • <del>UI: no visual feedback on volume change</del> fixed in 1.00.41 - but only in local music mode <br>
-• UI: no visual feedback on volume change im "media control" mode, volume level does not controll phone volume<br>
-• UI: "loop track" icon has no functionality in media control mode and can be remooved in "mobile music" state<br>
-• <del>UI: local music screen (please sync on your App) has a misplaced small music icon on the screen - apears when you tap on the tracklist icon</del> fixed in 1.00.42<br>
-• <del>CRITICAL Function: local music: music file transfer not working (android)</del><br>
-• CRITICAL Function: BT earbud connection doesn't work<br>
-• since 1.00.41: when in local music mode, chinese text is shown sometimes<br>
-• Function request: please display cover artwork, title and artist of uploaded mp3 song in local music view - if possible <br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/28.jpg" width="300px"/>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/29.jpg" width="300px"/>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/2.jpg" width="300px"/>
@@ -208,9 +212,9 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 ## Alarms
 • CRITICAL Function issue: sound alarm missing even when "ring" is set, also vibration too weak<br>
 • CRITICAL Function issue: Snooze function does not work, alarm not repeating<br>
+• UI: in alarm edit view there is a typo on the delete button - it says "Dele"<br>
 • <del>UI: text is not vertically centered and changes style (active/not active)</del> fixed in 1.00.41<br>
 • <del>UI: when setting additional alarm and activating it the bell icon is overlapping text</del> fixed in 1.00.41<br>
-• UI: in alarm edit view there is a typo on the delete button - it says "Dele"<br>
 • <del>CRITICAL adding a new alarm not allways work</del> - fixed in 1.00.42<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/32.jpg" width="300px"/>
 
@@ -234,9 +238,10 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 
 ## Photo album
-• <del>CRITICAL Function: Deleting a photo doesn't work</del> fixed in 1.00.42<br>
 • UI: Delete button labell is not scrolling and is cut off<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/34.jpg" width="300px"/>
+• <del>CRITICAL Function: Deleting a photo doesn't work</del> fixed in 1.00.42<br>
+
 
 
 ## Audio Recording
