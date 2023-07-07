@@ -10,7 +10,7 @@ or rase to wake functions working - some even both. Regarding this I'm not sure 
 
 ## General/Menu/Watchfaces
 • UI: current watchfaces seem to have a lower resolution than the watch display. 
-This resulting in blown up and blurry graphics - same goes for the honeycomb menu.<br>
+This resulting in blown up and blurry graphics<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/1.jpg" width="300px"/>
 
 • UI: All corner icons in the stock watchface are not updating/working. Both on top don't open anything. The top right one could be battery level.<br>
