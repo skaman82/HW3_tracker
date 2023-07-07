@@ -257,9 +257,9 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 ## Settings
 • Battery UI: not really helpfull data - maybee add time since last charge?<br>
-• CRITICAL Settings > Sports: UI is broken, labels not scrolling (too much space between options)<br>
+• CRITICAL Settings > Sports: UI is broken, labels not scrolling (too much space between options or info text is missing)<br>
 • CRITICAL Settings > Heartrate: UI is broken (text not vertically centered)<br>
-• CRITICAL Settings > Fitness record: UI is broken (too much space between options), goal setup missing<br>
+• CRITICAL Settings > Fitness record: UI is broken (too much space between options or info text is missing), daily goal setup missing<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/36.jpg" width="300px"/>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/37.jpg" width="300px"/>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/38.jpg" width="300px"/>
