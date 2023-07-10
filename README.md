@@ -42,6 +42,10 @@ or rase to wake functions working - some even both. Regarding this I'm not sure 
 + different font sizes<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10044_1.jpg" width="300px"/><br>
 
+• Not a bug, but but a suggestion: I would love if an interactive watch face style could be locked (now it is still changes style/colors on tap)<br>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/5.jpg" width="300px"/><br>
+
+
 • CRITICAL Function issue: Volume control is not linked to phones volume (even if there is the setting "Media tone control"). When volume on the phone is turned down, increasing the volume on the watch has no effect<br>
 - since 1.00.42 the watch has a new BT profile (detected as a watch) - in the BT device options on the phone you can activate the volume sync, but I think this should be on by default, like with other bt speakers <br>
 
@@ -63,9 +67,6 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 • <del>Function issue: Sometimes charging screen remains on, even when the charger is remooved</del> - this screen is now updated with the bedside clock mode since 1.00.42<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/10.jpg" width="300px"/>
-
-• Not a bug, but but a suggestion: I would love if an interactive watch face style could be locked (now it is still changes style/colors on tap)<br>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/5.jpg" width="300px"/>
 
 • <del>CRITICAL Weather don't show up on the side dashboard (when you swipe right on the watch face) only cloud icon with a question mark</del> - fixed in 1.00.44<br>
 
