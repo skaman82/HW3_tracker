@@ -253,7 +253,7 @@ Some examples:<br>
 
 ## Photo album
 • UI: Delete button labell is not scrolling and is cut off<br>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/34.jpg" width="300px"/>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/34.jpg" width="300px"/><br>
 • <del>CRITICAL Function: Deleting a photo doesn't work</del> fixed in 1.00.42<br>
 
 
