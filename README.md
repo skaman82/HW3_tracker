@@ -20,11 +20,12 @@ or rase to wake functions working - some even both. Regarding this I'm not sure 
 
 
 ## Call record
-• CRITICAL UI: Call records not scrollable if the list getting longer<br>
 • NEW in 1.00.42 - deleting a call record (swiping left) breaks the UI (grey background breaks)<br>
 • function: Call records list of my phone is not displayed, only calls I've made from the watch are visible<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/23.jpg" width="300px"/>
 • <del>CRITICAL UI: Call records dissapearing sometimes once viewed</del><br>
+• <del>CRITICAL UI: Call records not scrollable if the list getting longer</del><br>
+
 
 
 ## Contacts
@@ -233,7 +234,7 @@ Some examples:<br>
 
 
 ## Stop watch
-• You cant start the count on crown press, only lapcount function
+• You cant start the count on crown press, only lapcount function<br>
 • <del>CRITICAL Function issue: Seconds count does not corresponds real seconds (counting stuttering) - it is quite off</del> - fixed in 1.00.44<br>
 
 
@@ -243,7 +244,7 @@ Some examples:<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/33.jpg" width="300px"/>
 
 
-## Voice assistant
+## <del>Voice assistant</del> - no issues anymore
 • <del>Since 1.00.41: UI now displaying this (not working) toggle instead of the assistant icon</del> - fixed in 1.00.42 - appears now only if BT is not connected<br>
 • <del>CRITICAL Assistant answer is not playing through the watch</del> - fixed in 1.00.42<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/4.jpg" width="300px"/>
