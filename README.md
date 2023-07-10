@@ -59,7 +59,8 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • Not a bug, but but a suggestion: I would love if an interactive watch face style could be locked (now it is still changes style/colors on tap)<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/5.jpg" width="300px"/>
 
-• <del>CRITICAL Weather don't show up on the side dashboard (when you swipe right on the watch face) only cloud icon with a question mark</del> - fixed in 1.00.44 - but text is misaligned<br>
+• <del>CRITICAL Weather don't show up on the side dashboard (when you swipe right on the watch face) only cloud icon with a question mark</del> - fixed in 1.00.44<br>
+• NEW in 1.00.44: UI temperature text is missaligned in the side dashboard - not vertically centered wit icon and background<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/4.jpg" width="300px"/>
 
 
@@ -93,8 +94,6 @@ Some examples:<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/7.jpg" width="300px"/>
 
 • <del>swiping back from the message detail view shows black screen (when you have a couple messages)</del> fixed in 1.00.41<br>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/6.jpg" width="300px"/>
-
 • UI: <del>Some people report time/date on the notifications not being accurate (works on my watch with android)</del> - reported as fixed in 1.00.42<br>
 
 
@@ -205,9 +204,6 @@ Some examples:<br>
 • <del>UI: Play/Pause button has no state change (should be displayed as pause while music is playing)</del> fixed in 1.00.41<br>
 • <del>UI: no visual feedback on volume change</del> fixed in 1.00.41 - but only in local music mode <br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/28.jpg" width="300px"/>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/29.jpg" width="300px"/>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/2.jpg" width="300px"/>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/3.jpg" width="300px"/>
 
 
 
@@ -230,7 +226,6 @@ Some examples:<br>
 • <del>UI: text is not vertically centered and changes style (active/not active)</del> fixed in 1.00.41<br>
 • <del>UI: when setting additional alarm and activating it the bell icon is overlapping text</del> fixed in 1.00.41<br>
 • <del>CRITICAL adding a new alarm not allways work</del> - fixed in 1.00.42<br>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/32.jpg" width="300px"/>
 
 
 ## Stop watch
@@ -247,7 +242,6 @@ Some examples:<br>
 ## <del>Voice assistant</del> - no issues anymore
 • <del>Since 1.00.41: UI now displaying this (not working) toggle instead of the assistant icon</del> - fixed in 1.00.42 - appears now only if BT is not connected<br>
 • <del>CRITICAL Assistant answer is not playing through the watch</del> - fixed in 1.00.42<br>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/4.jpg" width="300px"/>
 
 
 
