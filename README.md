@@ -10,7 +10,7 @@ or rase to wake functions working - some even both. Regarding this I'm not sure 
 
 ## Calling Functions
 • CRITICAL Function issue: Watch doesn't stop vibrating when I take the call on my phone<br>
-• CRITICAL Function issue: With BT disable on the watch only decline button appears on the watch - on my android phone this button is working – but on iPhone it seems not to be working yet<br>
+• CRITICAL Function issue: With BT disabled on the watch, only decline button appears - on my android phone this button is working correctly – but on iPhone it seems not to be working yet<br>
 • UI Caller ID not centered in the screen<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10044_3.jpg" width="300px"/><br>
 
