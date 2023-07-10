@@ -38,13 +38,14 @@ or rase to wake functions working - some even both. Regarding this I'm not sure 
 
 ## General/Menu/Watchfaces
 
+• CRITICAL: there is no way yet to update personal information (weight/size), also no possibility to set daily step goals etc.<br>
+
 • NEW in 1.00.44: UI temperature text is missaligned in the side dashboard / also weekday - not vertically centered with the icon and the background<br>
 + also different font sizes<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10044_1.jpg" width="300px"/><br>
 
 • Not a bug, but but a suggestion: I would love if an interactive watch face style could be locked (now it is still changes style/colors on tap)<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/5.jpg" width="300px"/><br>
-
 
 • CRITICAL Function issue: Volume control is not linked to phones volume (even if there is the setting "Media tone control"). When volume on the phone is turned down, increasing the volume on the watch has no effect<br>
 - since 1.00.42 the watch has a new BT profile (detected as a watch) - in the BT device options on the phone you can activate the volume sync, but I think this should be on by default, like with other bt speakers <br>
@@ -279,5 +280,7 @@ Some examples:<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/40.jpg" width="300px"/>
 
 
+## Menstrual app
+• not working yet<br>
 
 
