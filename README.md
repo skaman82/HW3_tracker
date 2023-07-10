@@ -10,8 +10,10 @@ or rase to wake functions working - some even both. Regarding this I'm not sure 
 
 ## Calling Functions
 • CRITICAL Function issue: Watch doesn't stop vibrating when I take the call on my phone<br>
-• CRITICAL Function issue: With BT disable on the watch only decline button appears on the watc - the button doesn't work yet<br>
+• CRITICAL Function issue: With BT disable on the watch only decline button appears on the watch - on my android phone this button is working – but on iPhone it seems not to be working yet<br>
 • UI Caller ID not centered in the screen<br>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10044_3.jpg" width="300px"/><br>
+
 
 
 ## Dial
@@ -35,6 +37,10 @@ or rase to wake functions working - some even both. Regarding this I'm not sure 
 
 
 ## General/Menu/Watchfaces
+
+• NEW in 1.00.44: UI temperature text is missaligned in the side dashboard / also weekday - not vertically centered wit icon and background<br>
++ different font sizes<br>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10044_1.jpg" width="300px"/><br>
 
 • CRITICAL Function issue: Volume control is not linked to phones volume (even if there is the setting "Media tone control"). When volume on the phone is turned down, increasing the volume on the watch has no effect<br>
 - since 1.00.42 the watch has a new BT profile (detected as a watch) - in the BT device options on the phone you can activate the volume sync, but I think this should be on by default, like with other bt speakers <br>
@@ -62,8 +68,8 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/5.jpg" width="300px"/>
 
 • <del>CRITICAL Weather don't show up on the side dashboard (when you swipe right on the watch face) only cloud icon with a question mark</del> - fixed in 1.00.44<br>
-• NEW in 1.00.44: UI temperature text is missaligned in the side dashboard - not vertically centered wit icon and background<br>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/4.jpg" width="300px"/>
+
+
 
 
 
@@ -176,7 +182,10 @@ Some examples:<br>
 • App: "Sleep tracking" can not be activated in the phone app - only heart rate and SPO monitoring<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/19.jpg" width="300px"/>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/20.jpg" width="300px"/>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/21.jpg" width="300px"/>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/21.jpg" width="300px"/><br>
+• UI: Missing spaces in the sleep app<br>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10044_2.jpg" width="300px"/><br>
+
 
 
 ## Calender
