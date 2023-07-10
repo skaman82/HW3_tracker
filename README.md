@@ -79,7 +79,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • CRITICAL UI: New message banner notification does not disappear on the home screen (should be only visible 2-4 seconds)<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/5.jpg" width="300px"/>
 
-•CRITICAL UI: Custom wallpaper watchface breaking notification delete function: Can't delete a single notification in a stack when custom wallpaper watchface is used <br>
+•CRITICAL UI: Custom wallpaper watchface breaking notification delete function: Can't delete a single notification in a stack when custom wallpaper watchface is used (stock girl with the flower) <br>
 
 • CRITICAL Seating/Drinking reminder <del>can not be set up yet in the phone app</del> fixed in  1.00.42 - but reminders dont work yet on the watch<br>
 
