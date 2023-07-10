@@ -38,8 +38,8 @@ or rase to wake functions working - some even both. Regarding this I'm not sure 
 
 ## General/Menu/Watchfaces
 
-• NEW in 1.00.44: UI temperature text is missaligned in the side dashboard / also weekday - not vertically centered wit icon and background<br>
-+ different font sizes<br>
+• NEW in 1.00.44: UI temperature text is missaligned in the side dashboard / also weekday - not vertically centered with the icon and the background<br>
++ also different font sizes<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10044_1.jpg" width="300px"/><br>
 
 • Not a bug, but but a suggestion: I would love if an interactive watch face style could be locked (now it is still changes style/colors on tap)<br>
