@@ -53,7 +53,7 @@ or rase to wake functions working - some even both. Regarding this I'm not sure 
 • CRITICAL Function issue: "Raise to wake" doesnt work on my watch - might be a hardware fault (see above)<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/3.jpg" width="300px"/>
 
-• UI: current watchfaces seem to have a lower resolution than the watch display. 
+• UI: current market watchfaces seem to have a lower resolution than the watch display. 
 This resulting in blown up and blurry graphics<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/1.jpg" width="300px"/>
 
