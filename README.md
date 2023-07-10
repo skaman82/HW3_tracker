@@ -51,7 +51,9 @@ This resulting in blown up and blurry graphics<br>
 
 • UI: In the main menu the rainbow icon opens "sport stats" instead of "step summary". 
 This is not logical as the icon represents the rainbow circle of the "steps stats screen".<br>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/2.jpg" width="300px"/>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/2.jpg" width="300px"/><br>
+
+• Honeycomb zooming animation got worse since 1.00.44<br>
 
 • <del>Function issue: Sometimes charging screen remains on, even when the charger is remooved</del> - this screen is now updated with the bedside clock mode since 1.00.42<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/10.jpg" width="300px"/>
