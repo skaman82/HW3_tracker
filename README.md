@@ -225,11 +225,6 @@ Some examples:<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/30.jpg" width="300px"/>
 
 
-## Breath training
-• UI: animation is stuttery (not a priority tho) <br>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/31.jpg" width="300px"/>
-
-
 ## Alarms
 • CRITICAL Function issue: sound alarm missing even when "ring" is set, also vibration too weak <del>and only happens once (not in a loop until set to off/snooze)</del><br>
 • UI: in alarm edit view there is a typo on the delete button - it says "Dele"<br>
