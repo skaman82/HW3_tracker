@@ -22,7 +22,7 @@ or rase to wake functions working - some even both. Regarding this I'm not sure 
 ## Call record
 • NEW in 1.00.42 - deleting a call record (swiping left) breaks the UI (grey background breaks)<br>
 • function: Call records list of my phone is not displayed, only calls I've made from the watch are visible<br>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/23.jpg" width="300px"/>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/23.jpg" width="300px"/><br>
 • <del>CRITICAL UI: Call records dissapearing sometimes once viewed</del><br>
 • <del>CRITICAL UI: Call records not scrollable if the list getting longer</del><br>
 
