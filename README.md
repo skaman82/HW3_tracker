@@ -83,7 +83,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 • CRITICAL Seating/Drinking reminder <del>can not be set up yet in the phone app</del> fixed in  1.00.42 - but reminders dont work yet on the watch<br>
 
-• CRITICAL: Notifications overflow: too many not usefull notifications normally not displayed by other watches like "tweet send" or "xx new messages"/"you have xx new messages" from whattsapp on top of the "usefull" messages - please filer the most common out in the phone app<br>
+• CRITICAL: Notifications overflow: too many not usefull notifications normally not displayed by other watches like "tweet send" or "xx new messages"/"you have xx new messages" from whattsapp on top of the "usefull" messages - please filter the most common unusefull messages out in the phone app<br>
 Some examples:<br>
 - "Sending Tweet" - Twitter<br>
 - "Tweet Send" - Twitter<br>
