@@ -6,7 +6,7 @@ REMARK: My step counter and "raise to wake" functions never worked since I got t
 or rase to wake functions working - some even both. Regarding this I'm not sure if this is falty hardware and bad quality control or something else.
 
 
-<b>LIST UPDATE STATE: FW 1.00.44</b> tested with Android phone
+<b>LIST UPDATE STATE: FW 1.00.46</b> tested with Android phone
 
 ## Calling Functions
 • CRITICAL Function issue: Watch doesn't stop vibrating when I take the call on my phone<br>
@@ -22,7 +22,7 @@ or rase to wake functions working - some even both. Regarding this I'm not sure 
 
 
 ## Call record
-• NEW in 1.00.42 - deleting a call record (swiping left) breaks the UI (grey background breaks)<br>
+• <del>NEW in 1.00.42 - deleting a call record (swiping left) breaks the UI (grey background breaks)</del> - fixed in 1.00.46<br>
 • function: Call records list of my phone is not displayed, only calls I've made from the watch are visible<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/23.jpg" width="300px"/><br>
 • <del>CRITICAL UI: Call records dissapearing sometimes once viewed</del><br>
@@ -37,6 +37,8 @@ or rase to wake functions working - some even both. Regarding this I'm not sure 
 
 
 ## General/Menu/Watchfaces
+
+• new in 1.00.46: Exiting an app with the crown press results sometimes in a black screen (after scrollin within the app)<br>
 
 • CRITICAL: there is no way yet to update personal information (weight/size), also no possibility to set daily step goals etc.<br>
 
@@ -64,7 +66,7 @@ This resulting in blown up and blurry graphics<br>
 This is not logical as the icon represents the rainbow circle of the "steps stats screen".<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/2.jpg" width="300px"/><br>
 
-• Honeycomb zooming animation got worse since 1.00.44<br>
+• <del>Honeycomb zooming animation got worse since 1.00.44</del>  - fixed in 1.00.46<br>
 
 • <del>Function issue: Sometimes charging screen remains on, even when the charger is remooved</del> - this screen is now updated with the bedside clock mode since 1.00.42<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/10.jpg" width="300px"/>
@@ -76,6 +78,8 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 
 ## Notifications
+
+• NEW UI BUG in 1.00.46: Banner notification has double background (banner background + partial full width background (new)<br>
 • CRITICAL UI: New message banner notification does not disappear on the home screen (should be only visible 2-4 seconds)<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/5.jpg" width="300px"/>
 
@@ -130,14 +134,14 @@ Some examples:<br>
 
 ## Sports (very brief tested so there may be more)
 • UI: Lock/Add buttons during an activity have no function - icons are not logical<br>
-• Workout/Activity stats are now shown when workout is finished - saving them (button) doesn't work<br>
+• <del>Workout/Activity stats are now shown when workout is finished - saving them (button) doesn't work</del>  - fixed in 1.00.46<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/13.jpg" width="300px"/>
 
 <i>• rest to be tested</i>
 
 ## Sport record
 • UI: Icon makes no sense as it is showing "Step rainbow"<br>
-• finished Workout/Activity is not listed yet<br>
+• <del>finished Workout/Activity is not listed yet</del>  - fixed in 1.00.46<br>
 <i>• rest to be tested</i>
 
 ## Heart Rate
@@ -243,7 +247,7 @@ Some examples:<br>
 
 ## Timer
 • CRITICAL Function: repeating sound alarm missing - vibration (once) is not enought<br>
-• UI: When timer is finished UI looks stange<br>
+• <del>UI: When timer is finished UI looks stange</del> - improved in 1.00.46<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/33.jpg" width="300px"/>
 
 
