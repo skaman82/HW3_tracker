@@ -5,11 +5,13 @@ Here I want to list all current issues of the watch at current firmware developm
 REMARK: My step counter and "raise to wake" functions never worked since I got the watch - at least I have not tested it before doing an update. There are some people reporting steps
 or rase to wake functions working - some even both. Regarding this I'm not sure if this is falty hardware and bad quality control or something else.
 
+UPDATE: The "raise to wake" feauture and step counter have now started spontaniously working one day after 1.00.46 update (after recharging the watch)
+
 
 <b>LIST UPDATE STATE: FW 1.00.46</b> tested with Android phone
 
 ## Calling Functions
-• CRITICAL Function issue: Watch doesn't stop vibrating when I take the call on my phone<br>
+• CRITICAL Function issue: Watch doesn't stop vibrating when I take the call on my phone (if BT on the watch is connected with the phone)<br>
 • CRITICAL Function issue: With BT disabled on the watch, only decline button appears - on my android phone this button is working correctly – but on iPhone it seems not to be working yet<br>
 • UI Caller ID not centered in the screen<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10044_3.jpg" width="300px"/><br>
@@ -25,7 +27,7 @@ or rase to wake functions working - some even both. Regarding this I'm not sure 
 • <del>NEW in 1.00.42 - deleting a call record (swiping left) breaks the UI (grey background breaks)</del> - fixed in 1.00.46<br>
 • function: Call records list of my phone is not displayed, only calls I've made from the watch are visible<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/23.jpg" width="300px"/><br>
-• <del>CRITICAL UI: Call records dissapearing sometimes once viewed</del><br>
+• <del>CRITICAL UI: Call records dissapea sometimes once viewed</del><br>
 • <del>CRITICAL UI: Call records not scrollable if the list getting longer</del><br>
 
 
@@ -133,7 +135,7 @@ Some examples:<br>
 
 
 ## Sports (very brief tested so there may be more)
-• UI: Lock/Add buttons during an activity have no function - icons are not logical<br>
+• UI: Lock/Add buttons du an activity have no function - icons are not logical<br>
 • <del>Workout/Activity stats are now shown when workout is finished - saving them (button) doesn't work</del>  - fixed in 1.00.46<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/13.jpg" width="300px"/>
 
@@ -164,9 +166,9 @@ Some examples:<br>
 
 
 ## Step
-• CRITICAL Function: Step count not working on my watch (always showing 0 steps)<br>
+• <del>CRITICAL Function: Step count not working on my watch (always showing 0 steps)</del> - see update above<br>
 • CRITICAL Function: When accessing step count from the watchfase (swiping left), vertical scrolling does not work to see the stats<br>
-• CRITICAL Function: The activity rings do not update yet<br>
+• CRITICAL Function: Not all activity rings updating yet (Steps not updating)<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/17.jpg" width="300px"/>
 
 • UI: Wrong icon in distance stats section (blue) - currently showing green steps icon <br>
@@ -174,7 +176,7 @@ Some examples:<br>
 
 
 ## Compass
-• CRITICAL: NEW in 1.00.42: Compas working initially after factory reset, but stops working after a short while using the watch<br>
+• <del>CRITICAL: NEW in 1.00.42: Compas working initially after factory reset, but stops working after a short while using the watch<del>  - compass not pointing north whil turning 360°<br>
 • UI: switching between the two compass modes not allways work/very laggy (tapping on the list icon)<br>
 • <del>CRITICAL Function: Not working on my watch yet - compass only mooving a few degrees if I rotate the watch</del> - kind of fixed in 1.00.42<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/18.jpg" width="300px"/>
@@ -243,9 +245,11 @@ Some examples:<br>
 ## Stop watch
 • You cant start the count on crown press, only lapcount function<br>
 • <del>CRITICAL Function issue: Seconds count does not corresponds real seconds (counting stuttering) - it is quite off</del> - fixed in 1.00.44<br>
+• stopwatch and timer app have swapped app icons<br>
 
 
 ## Timer
+• stopwatch and timer app have swapped app icons<br>
 • CRITICAL Function: repeating sound alarm missing - vibration (once) is not enought<br>
 • <del>UI: When timer is finished UI looks stange</del> - improved in 1.00.46<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/33.jpg" width="300px"/>
