@@ -169,7 +169,6 @@ Some examples:<br>
 ## Step
 • <del>CRITICAL Function: Step count not working on my watch (always showing 0 steps)</del> - see update above<br>
 • CRITICAL Function: When accessing step count from the watchfase (swiping left), vertical scrolling does not work to see the stats<br>
-• CRITICAL Function: Not all activity rings updating yet (Steps not updating)<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/17.jpg" width="300px"/>
 
 • UI: Wrong icon in distance stats section (blue) - currently showing green steps icon <br>
