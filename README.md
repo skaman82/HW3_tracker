@@ -126,8 +126,9 @@ Some examples:<br>
 
 
 ## Bedside clock
-• <del>Currently missng:</del> Please make sure it is CONSTANT ON with low light intensity while charging or add at least this option to the bedside clock setup screen.<br>
-• BUG: since 1.00.42 bedside clock is added, but display goes off after couple of seconds, also charging state indication is missing (circle in %)<br>
+• <del>Currently missng: Please make sure it is CONSTANT ON with low light intensity while charging or add at least this option to the bedside clock setup screen.</del> - added in 1.00.42<br>
+• BUG: Display goes off after couple of seconds in PORTRAIT mode. In LANDSCAPE mode it is working fine. <br>
+• Charging state indication is missing (circle in %) in both orientations<br>
 + <del>on my watch display doesn't rotate on orientation change as my accelerometer/gyro still not working</del> - but it is reported working<br>
 • BUG since 1.00.42: when switching in bedside clock mode watch sometimes reboots<br>
 - <a href="https://youtu.be/ARyXgjeM1rM">see Video ></a>
