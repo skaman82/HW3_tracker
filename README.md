@@ -244,8 +244,8 @@ Some examples:<br>
 
 ## Stop watch
 • You cant start the count on crown press, only lapcount function<br>
-• <del>CRITICAL Function issue: Seconds count does not corresponds real seconds (counting stuttering) - it is quite off</del> - fixed in 1.00.44<br>
 • stopwatch and timer app have swapped app icons<br>
+• <del>CRITICAL Function issue: Seconds count does not corresponds real seconds (counting stuttering) - it is quite off</del> - fixed in 1.00.44<br>
 
 
 ## Timer
