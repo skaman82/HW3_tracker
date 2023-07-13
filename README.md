@@ -5,7 +5,7 @@ Here I want to list all current issues of the watch at current firmware developm
 REMARK: My step counter and "raise to wake" functions never worked since I got the watch - at least I have not tested it before doing an update. There are some people reporting steps
 or rase to wake functions working - some even both. Regarding this I'm not sure if this is falty hardware and bad quality control or something else.
 
-UPDATE: The "raise to wake" feauture and step counter have now started spontaniously working one day after 1.00.46 update (after recharging the watch)
+UPDATE: The "raise to wake" feauture and step counter have now started spontaniously working one day after 1.00.46 update (after recharging the watch - recharged after it was completley empty/off)
 
 
 <b>LIST UPDATE STATE: FW 1.00.46</b> tested with Android phone
