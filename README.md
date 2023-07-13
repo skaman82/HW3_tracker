@@ -87,7 +87,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 
 •CRITICAL UI: Custom wallpaper watchface breaking notification delete function: Can't delete a single notification in a stack when custom wallpaper watchface is used (stock girl with the flower) <br>
 
-• <del>CRITICAL Seating/Drinking reminder <del>can not be set up yet in the phone app</del> fixed in  1.00.42 - but reminders dont work yet on the watch</del> - fixed in 1.00.46<br>
+
 
 • CRITICAL: Notifications overflow: too many not usefull notifications normally not displayed by other watches like "tweet send" or "xx new messages"/"you have xx new messages" from whattsapp on top of the "usefull" messages - please filter the most common unusefull messages out in the phone app<br>
 Some examples:<br>
@@ -109,6 +109,7 @@ Some examples:<br>
 • UI: "WhatAapp message summary" message has a corrupted message count when the number is higher then 9 (see photo). But the whole message is unnecessary. The companion app should filter those default nonsense messages out and only sent usefull messages to the watch<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/7.jpg" width="300px"/>
 
+• <del>CRITICAL Seating/Drinking reminder <del>can not be set up yet in the phone app</del> fixed in  1.00.42 - but reminders dont work yet on the watch</del> - fixed in 1.00.46<br>
 • <del>swiping back from the message detail view shows black screen (when you have a couple messages)</del> fixed in 1.00.41<br>
 • UI: <del>Some people report time/date on the notifications not being accurate (works on my watch with android)</del> - reported as fixed in 1.00.42<br>
 
