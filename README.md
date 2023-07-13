@@ -54,7 +54,7 @@ UPDATE: The "raise to wake" feauture and step counter have now started spontanio
 • CRITICAL Function issue: Volume control is not linked to phones volume (even if there is the setting "Media tone control"). When volume on the phone is turned down, increasing the volume on the watch has no effect<br>
 - since 1.00.42 the watch has a new BT profile (detected as a watch) - in the BT device options on the phone you can activate the volume sync, but I think this should be on by default, like with other bt speakers <br>
 
-• CRITICAL Function issue: "Raise to wake" doesnt work on my watch - might be a hardware fault (see above)<br>
+• <del>CRITICAL Function issue: "Raise to wake" doesnt work on my watch - might be a hardware fault</del> (see update above)<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/3.jpg" width="300px"/>
 
 • UI: current market watchfaces seem to have a lower resolution than the watch display. 
