@@ -8,13 +8,13 @@ or rase to wake functions working - some even both. Regarding this I'm not sure 
 UPDATE: The "raise to wake" feauture and step counter have now started spontaniously working one day after 1.00.46 update (after recharging the watch - recharged after it was completley empty/off)
 
 
-<b>LIST UPDATE STATE: FW 1.00.46</b> tested with Android phone
+<b>LIST UPDATE STATE: FW 1.00.47</b> tested with Android phone
 
 ## Calling Functions
-• CRITICAL Function issue: Watch doesn't stop vibrating when I take the call on my phone (if BT on the watch is connected with the phone)<br>
 • CRITICAL Function issue: With BT disabled on the watch, only decline button appears - on my android phone this button is working correctly – but on iPhone it seems not to be working yet<br>
 • UI Caller ID not centered in the screen<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10044_3.jpg" width="300px"/><br>
+• <del>CRITICAL Function issue: Watch doesn't stop vibrating when I take the call on my phone (if BT on the watch is connected with the phone)</del> - fixed in 1.00.47<br>
 
 
 
@@ -24,11 +24,11 @@ UPDATE: The "raise to wake" feauture and step counter have now started spontanio
 
 
 ## Call record
-• <del>NEW in 1.00.42 - deleting a call record (swiping left) breaks the UI (grey background breaks)</del> - fixed in 1.00.46<br>
 • function: Call records list of my phone is not displayed, only calls I've made from the watch are visible<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/23.jpg" width="300px"/><br>
 • <del>CRITICAL UI: Call records dissapea sometimes once viewed</del><br>
 • <del>CRITICAL UI: Call records not scrollable if the list getting longer</del><br>
+• <del>NEW in 1.00.42 - deleting a call record (swiping left) breaks the UI (grey background breaks)</del> - fixed in 1.00.46<br>
 
 
 
@@ -40,7 +40,8 @@ UPDATE: The "raise to wake" feauture and step counter have now started spontanio
 
 ## General/Menu/Watchfaces
 
-• new in 1.00.46: Exiting an app with the crown press results sometimes in a black screen (after scrollin within the app)<br>
+• NEW in 1.00.46: some themed watchfaces stopped working - tot able to change the color (a tap anywhere calls the settings menu)<br>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10047_2.jpg" width="300px"/><br>
 
 • CRITICAL: there is no way yet to update personal information (weight/size), also no possibility to set daily step goals etc.<br>
 
@@ -54,9 +55,6 @@ UPDATE: The "raise to wake" feauture and step counter have now started spontanio
 • CRITICAL Function issue: Volume control is not linked to phones volume (even if there is the setting "Media tone control"). When volume on the phone is turned down, increasing the volume on the watch has no effect<br>
 - since 1.00.42 the watch has a new BT profile (detected as a watch) - in the BT device options on the phone you can activate the volume sync, but I think this should be on by default, like with other bt speakers <br>
 
-• <del>CRITICAL Function issue: "Raise to wake" doesnt work on my watch - might be a hardware fault</del> (see update above)<br>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/3.jpg" width="300px"/>
-
 • UI: current market watchfaces seem to have a lower resolution than the watch display. 
 This resulting in blown up and blurry graphics<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/1.jpg" width="300px"/>
@@ -68,10 +66,13 @@ This resulting in blown up and blurry graphics<br>
 This is not logical as the icon represents the rainbow circle of the "steps stats screen".<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/2.jpg" width="300px"/><br>
 
+• <del>CRITICAL Function issue: "Raise to wake" doesnt work on my watch - might be a hardware fault</del> (see update above)<br>
+
+• <del>new in 1.00.46: Exiting an app with the crown press results sometimes in a black screen (after scrollin within the app)</del> - fixed in 1.00.47<br>
+
 • <del>Honeycomb zooming animation got worse since 1.00.44</del>  - fixed in 1.00.46<br>
 
 • <del>Function issue: Sometimes charging screen remains on, even when the charger is remooved</del> - this screen is now updated with the bedside clock mode since 1.00.42<br>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/10.jpg" width="300px"/>
 
 • <del>CRITICAL Weather don't show up on the side dashboard (when you swipe right on the watch face) only cloud icon with a question mark</del> - fixed in 1.00.44<br>
 
@@ -82,6 +83,8 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 ## Notifications
 
 • NEW UI BUG in 1.00.46: Banner notification has double background (banner background + partial full width background (new)<br>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10047_4.jpg" width="300px"/><br>
+
 • CRITICAL UI: New message banner notification does not disappear on the home screen (should be only visible 2-4 seconds)<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/5.jpg" width="300px"/>
 
@@ -109,9 +112,9 @@ Some examples:<br>
 • UI: "WhatAapp message summary" message has a corrupted message count when the number is higher then 9 (see photo). But the whole message is unnecessary. The companion app should filter those default nonsense messages out and only sent usefull messages to the watch<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/7.jpg" width="300px"/>
 
-• <del>CRITICAL Seating/Drinking reminder <del>can not be set up yet in the phone app</del> fixed in  1.00.42 - but reminders dont work yet on the watch</del> - fixed in 1.00.46<br>
+• <del>CRITICAL Seating/Drinking reminder <del>can not be set up yet in the phone app - fixed in  1.00.42 - but reminders dont work yet on the watch</del> - fixed in 1.00.46<br>
 • <del>swiping back from the message detail view shows black screen (when you have a couple messages)</del> fixed in 1.00.41<br>
-• UI: <del>Some people report time/date on the notifications not being accurate (works on my watch with android)</del> - reported as fixed in 1.00.42<br>
+• <del>UI: Some people report time/date on the notifications not being accurate (works on my watch with android)</del> - reported as fixed in 1.00.42<br>
 
 
 ## Custom watchfaces
@@ -152,15 +155,12 @@ Some examples:<br>
 • CRITICAL: Heart rate logging inconsistant (doesn't record data sometimes)<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/hr_log.jpg" width="300px"/>
 
-• UI: Missing space: 80bpm 0Minutes ago (space between "0" and "Minutes")<br>
+• UI: Missing spaces: 80bpm 0Minutes ago (space between "0" and "Minutes") - also sometimes weired text afte the word "ago"<br>
+- also in "Resting heartrate" and in "Walking heartrate"<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/14.jpg" width="300px"/>
 
-• UI: Missing space and typo in "Resting heartrate" and in "Walking heartrate": 80bpm 0Minutes *Agogo* (space between "0" and "Minutes"  and "ago")<br>
- in 1.00.42: seem to be fixed, but "Missing spaces" remain.<br>
- 
  • <del>CRITICAL since 1.00.41: heart rate seems not to be logged in the UI graph anymore</del> - fixed in 1.00.42<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/15.jpg" width="300px"/>
-
 
 ## SPO
 • UI: Result screen doesnt look good<br>
@@ -168,12 +168,11 @@ Some examples:<br>
 
 
 ## Step
-• <del>CRITICAL Function: Step count not working on my watch (always showing 0 steps)</del> - see update above<br>
 • CRITICAL Function: When accessing step count from the watchfase (swiping left), vertical scrolling does not work to see the stats<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/17.jpg" width="300px"/>
-
 • UI: Wrong icon in distance stats section (blue) - currently showing green steps icon <br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/11.jpg" width="300px"/>
+• <del>CRITICAL Function: Step count not working on my watch (always showing 0 steps)</del> - see update above<br>
 
 
 ## Compass
@@ -184,7 +183,8 @@ Some examples:<br>
 
 
 ## Sleep
-• CRITICAL Sleep tracking & Stats: Not working on my watch yet <br>
+• UI: If accesing the sleep tile from the watchface, scrolling doesn't work - also spaces missing<br>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10047_1.jpg" width="300px"/><br>
 • UI: "All timing" Screen not working / not configurable<br>
 • UI: "add other timing" screen not working / not configurable<br>
 • UI: "Sleep goal" button looks not aligned and has no function<br>
@@ -193,7 +193,8 @@ Some examples:<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/20.jpg" width="300px"/>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/21.jpg" width="300px"/><br>
 • UI: Missing spaces in the sleep app<br>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10044_2.jpg" width="300px"/><br>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10047_3.jpg" width="300px"/><br>
+• <del>CRITICAL Sleep tracking & Stats: Not working on my watch yet </del><br>
 
 
 
@@ -245,12 +246,12 @@ Some examples:<br>
 
 ## Stop watch
 • You cant start the count on crown press, only lapcount function<br>
-• stopwatch and timer app have swapped app icons<br>
+• "stopwatch" and "timer" app have swapped app icons<br>
 • <del>CRITICAL Function issue: Seconds count does not corresponds real seconds (counting stuttering) - it is quite off</del> - fixed in 1.00.44<br>
 
 
 ## Timer
-• stopwatch and timer app have swapped app icons<br>
+• "stopwatch" and "timer" app have swapped app icons<br>
 • CRITICAL Function: repeating sound alarm missing - vibration (once) is not enought<br>
 • <del>UI: When timer is finished UI looks stange</del> - improved in 1.00.46<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/33.jpg" width="300px"/>
