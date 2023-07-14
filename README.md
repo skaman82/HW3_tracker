@@ -180,7 +180,8 @@ Some examples:<br>
 
 
 ## Compass
-• <del>CRITICAL: NEW in 1.00.42: Compas working initially after factory reset, but stops working after a short while using the watch<del>  - compass not pointing north whil turning 360°<br>
+• <del>CRITICAL: NEW in 1.00.42: Compas working initially after factory reset, but stops working after a short while using the watch</del> <br>
+- compass not pointing north whil turning 360°<br>
 • UI: switching between the two compass modes not allways work/very laggy (tapping on the list icon)<br>
 • <del>CRITICAL Function: Not working on my watch yet - compass only mooving a few degrees if I rotate the watch</del> - kind of fixed in 1.00.42<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/18.jpg" width="300px"/><br>
