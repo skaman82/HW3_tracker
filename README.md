@@ -162,9 +162,9 @@ Some examples:<br>
 • UI: Missing spaces: 80bpm 0Minutes ago (space between "0" and "Minutes") - also sometimes weired text afte the word "ago"<br>
 - also in "Resting heartrate" and in "Walking heartrate"<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/14.jpg" width="300px"/>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/15.jpg" width="300px"/>
 
  • <del>CRITICAL since 1.00.41: heart rate seems not to be logged in the UI graph anymore</del> - fixed in 1.00.42<br>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/15.jpg" width="300px"/>
 
 ## SPO
 • UI: Result screen doesnt look good<br>
