@@ -59,7 +59,7 @@ UPDATE: The "raise to wake" feauture and step counter have now started spontanio
 This resulting in blown up and blurry graphics<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/1.jpg" width="300px"/>
 
-• UI: All corner icons in the stock watchface are not updating/working. Both on top don't open anything. The top right one could be battery level.<br>
+• UI: All corner icons in the stock watchfaces are not updating/working. Both on top don't open anything. The top right one could be battery level.<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/1.jpg" width="300px"/>
 
 • UI: In the main menu the rainbow icon opens "sport stats" instead of "step summary". 
