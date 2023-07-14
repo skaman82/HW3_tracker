@@ -12,7 +12,7 @@ UPDATE: The "raise to wake" feauture and step counter have now started spontanio
 
 ## Calling Functions
 • CRITICAL Function issue: With BT disabled on the watch, only decline button appears - on my android phone this button is working correctly – but on iPhone it seems not to be working yet<br>
-• UI Caller ID not centered in the screen<br>
+• UI: Caller ID not centered in the screen<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10044_3.jpg" width="300px"/><br>
 • <del>CRITICAL Function issue: Watch doesn't stop vibrating when I take the call on my phone (if BT on the watch is connected with the phone)</del> - fixed in 1.00.47<br>
 
