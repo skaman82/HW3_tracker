@@ -86,7 +86,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 • NEW UI BUG in 1.00.46: Banner notification has double background (banner background + partial full width background (new)<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10047_4.jpg" width="300px"/><br>
 
-• CRITICAL UI: New message banner notification does not disappear on the home screen (should be only visible 2-4 seconds)<br>
+• CRITICAL UI: New message banner notification does not disappear automatically on the home screen (should be only visible 2-4 seconds)<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/5.jpg" width="300px"/><br>
 
 •CRITICAL UI: Custom wallpaper watchface breaking notification delete function: Can't delete a single notification in a stack when custom wallpaper watchface is used (stock girl with the flower) <br>
