@@ -40,7 +40,7 @@ UPDATE: The "raise to wake" feauture and step counter have now started spontanio
 
 ## General/Menu/Watchfaces
 
-• NEW in 1.00.46: some themed watchfaces stopped working - tot able to change the color (a tap anywhere calls the settings menu)<br>
+• NEW in 1.00.46: some themed watchfaces stopped working - not able to change the color in this watchface (a tap anywhere calls the settings menu)<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10047_2.jpg" width="300px"/><br>
 
 • CRITICAL: there is no way yet to update personal information (weight/size), also no possibility to set daily step goals etc.<br>
