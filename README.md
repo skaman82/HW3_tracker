@@ -297,6 +297,6 @@ Some examples:<br>
 
 
 ## Menstrual app
-• not working yet<br>
+• <del>not working yet</del> - working fine<br>
 
 
