@@ -86,7 +86,7 @@ This is not logical as the icon represents the rainbow circle of the "steps stat
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10047_4.jpg" width="300px"/><br>
 
 • CRITICAL UI: New message banner notification does not disappear on the home screen (should be only visible 2-4 seconds)<br>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/5.jpg" width="300px"/>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/5.jpg" width="300px"/><br>
 
 •CRITICAL UI: Custom wallpaper watchface breaking notification delete function: Can't delete a single notification in a stack when custom wallpaper watchface is used (stock girl with the flower) <br>
 
@@ -107,10 +107,10 @@ Some examples:<br>
 
 • UI: "Clear all" button would make more sense at the bottom (after scrolling through the messages)<br>
 • UI: Currently there is room for a second line of text for the message preview<br>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/6.jpg" width="300px"/>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10041/6.jpg" width="300px"/><br>
 
 • UI: "WhatAapp message summary" message has a corrupted message count when the number is higher then 9 (see photo). But the whole message is unnecessary. The companion app should filter those default nonsense messages out and only sent usefull messages to the watch<br>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/7.jpg" width="300px"/>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/7.jpg" width="300px"/><br>
 
 • <del>CRITICAL Seating/Drinking reminder <del>can not be set up yet in the phone app - fixed in  1.00.42 - but reminders dont work yet on the watch</del> - fixed in 1.00.46<br>
 • <del>swiping back from the message detail view shows black screen (when you have a couple messages)</del> fixed in 1.00.41<br>
@@ -121,13 +121,13 @@ Some examples:<br>
 ## Custom watchfaces
 • CRITICAL: Custom watchface breaks notification system - deleting one single message in the stack not possible anymore (see above)<br> 
 • Function request: please also add pointer dial style to make it perfect<br>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/8.jpg" width="300px"/>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/8.jpg" width="300px"/><br>
 
 
 
 ## Allways on display
 • UI: Digital style of AOD is very simple and could have a nicer font and maybe additional info like steps, day/date or battery status<br>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/9.jpg" width="300px"/>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/9.jpg" width="300px"/><br>
 
 
 
@@ -135,7 +135,7 @@ Some examples:<br>
 
 • BUG: Display goes off after couple of seconds in PORTRAIT mode. In LANDSCAPE mode it is working fine. <br>
 • Charging state indication is missing (circle in %) in both orientations<br>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/IMG_20230706_114316_edit_10699710599927_resized_20230706_114843767.jpg" width="300px"/>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/IMG_20230706_114316_edit_10699710599927_resized_20230706_114843767.jpg" width="300px"/><br>
 
 • <del>BUG since 1.00.42: when switching in bedside clock mode watch sometimes reboots<br>
 - <a href="https://youtu.be/ARyXgjeM1rM">see Video ></a></del><br>
@@ -157,25 +157,25 @@ Some examples:<br>
 
 ## Heart Rate
 • CRITICAL: Heart rate logging inconsistant (doesn't record data sometimes)<br>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/hr_log.jpg" width="300px"/>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/hr_log.jpg" width="300px"/><br>
 
 • UI: Missing spaces: 80bpm 0Minutes ago (space between "0" and "Minutes") - also sometimes weired text afte the word "ago"<br>
 - also in "Resting heartrate" and in "Walking heartrate"<br>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/14.jpg" width="300px"/>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/15.jpg" width="300px"/>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/14.jpg" width="300px"/><br>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/15.jpg" width="300px"/><br>
 
  • <del>CRITICAL since 1.00.41: heart rate seems not to be logged in the UI graph anymore</del> - fixed in 1.00.42<br>
 
 ## SPO
 • UI: Result screen doesnt look good<br>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/16.jpg" width="300px"/>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/16.jpg" width="300px"/><br>
 
 
 ## Step
 • CRITICAL Function: When accessing step count from the watchfase (swiping left), vertical scrolling does not work to see the stats<br>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/17.jpg" width="300px"/>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/17.jpg" width="300px"/><br>
 • UI: Wrong icon in distance stats section (blue) - currently showing green steps icon <br>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/11.jpg" width="300px"/>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/11.jpg" width="300px"/><br>
 • <del>CRITICAL Function: Step count not working on my watch (always showing 0 steps)</del> - see update above<br>
 
 
@@ -183,7 +183,7 @@ Some examples:<br>
 • <del>CRITICAL: NEW in 1.00.42: Compas working initially after factory reset, but stops working after a short while using the watch<del>  - compass not pointing north whil turning 360°<br>
 • UI: switching between the two compass modes not allways work/very laggy (tapping on the list icon)<br>
 • <del>CRITICAL Function: Not working on my watch yet - compass only mooving a few degrees if I rotate the watch</del> - kind of fixed in 1.00.42<br>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/18.jpg" width="300px"/>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/18.jpg" width="300px"/><br>
 
 
 ## Sleep
@@ -193,8 +193,8 @@ Some examples:<br>
 • UI: "add other timing" screen not working / not configurable<br>
 • UI: "Sleep goal" button looks not aligned and has no function<br>
 • App: "Sleep tracking" can not be activated in the phone app - only heart rate and SPO monitoring<br>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/19.jpg" width="300px"/>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/20.jpg" width="300px"/>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/19.jpg" width="300px"/><br>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/20.jpg" width="300px"/><br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/21.jpg" width="300px"/><br>
 • UI: Missing spaces in the sleep app<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10047_3.jpg" width="300px"/><br>
