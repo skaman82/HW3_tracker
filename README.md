@@ -133,7 +133,7 @@ Some examples:<br>
 • BUG: Display goes off after couple of seconds in PORTRAIT mode. In LANDSCAPE mode it is working fine. <br>
 • Charging state indication is missing (circle in %) in both orientations<br>
 + <del>on my watch display doesn't rotate on orientation change as my accelerometer/gyro still not working</del> - but it is reported working<br>
-• BUG since 1.00.42: when switching in bedside clock mode watch sometimes reboots<br>
+• <del>BUG since 1.00.42: when switching in bedside clock mode watch sometimes reboots</del><br>
 - <a href="https://youtu.be/ARyXgjeM1rM">see Video ></a>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/10.jpg" width="300px"/>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/IMG_20230706_114316_edit_10699710599927_resized_20230706_114843767.jpg" width="300px"/>
