@@ -189,7 +189,7 @@ Some examples:<br>
 
 
 ## Sleep
-• UI: If accesing the sleep tile from the watchface, scrolling doesn't work - also spaces missing<br>
+• UI: If accesing the sleep tile from the watchface, scrolling down doesn't work - also spaces missing<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10047_1.jpg" width="300px"/><br>
 • UI: "All timing" Screen not working / not configurable<br>
 • UI: "add other timing" screen not working / not configurable<br>
