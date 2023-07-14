@@ -129,15 +129,14 @@ Some examples:<br>
 
 
 ## Bedside clock
-• <del>Currently missng: Please make sure it is CONSTANT ON with low light intensity while charging or add at least this option to the bedside clock setup screen.</del> - added in 1.00.42<br>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/IMG_20230706_114316_edit_10699710599927_resized_20230706_114843767.jpg" width="300px"/>
+
 • BUG: Display goes off after couple of seconds in PORTRAIT mode. In LANDSCAPE mode it is working fine. <br>
 • Charging state indication is missing (circle in %) in both orientations<br>
 + <del>on my watch display doesn't rotate on orientation change as my accelerometer/gyro still not working</del> - but it is reported working<br>
-• <del>BUG since 1.00.42: when switching in bedside clock mode watch sometimes reboots</del><br>
-- <a href="https://youtu.be/ARyXgjeM1rM">see Video ></a>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/10.jpg" width="300px"/>
-<img src="https://github.com/skaman82/HW3_tracker/blob/main/IMG_20230706_114316_edit_10699710599927_resized_20230706_114843767.jpg" width="300px"/>
-
+• <del>BUG since 1.00.42: when switching in bedside clock mode watch sometimes reboots<br>
+- <a href="https://youtu.be/ARyXgjeM1rM">see Video ></a></del><br>
+• <del>Currently missng: Please make sure it is CONSTANT ON with low light intensity while charging or add at least this option to the bedside clock setup screen.</del> - added in 1.00.42<br>
 
 ## Sports (very brief tested so there may be more)
 • UI: Lock/Add buttons du an activity have no function - icons are not logical<br>
