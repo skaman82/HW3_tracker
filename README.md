@@ -173,6 +173,7 @@ Some examples:<br>
 
 
 ## Step
+• CRITICAL Function: Step activity ring doesn't update before reaching +2.000 steps<br>
 • CRITICAL Function: When accessing step count from the watchfase (swiping left), vertical scrolling does not work to see the stats<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/17.jpg" width="300px"/><br>
 • UI: Wrong icon in distance stats section (blue) - currently showing green steps icon <br>
@@ -295,6 +296,10 @@ Some examples:<br>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/38.jpg" width="300px"/>
 <img src="https://github.com/skaman82/HW3_tracker/blob/main/10040/40.jpg" width="300px"/>
 
+
+## World Clock
+• CRITICAL: Time is not accurate<br>
+<img src="https://github.com/skaman82/HW3_tracker/blob/main/10047_5.jpg" width="300px"/><br>
 
 ## Menstrual app
 • <del>not working yet</del> - working fine<br>
